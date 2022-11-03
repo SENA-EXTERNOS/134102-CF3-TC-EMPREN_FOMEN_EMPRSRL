@@ -1,4 +1,4 @@
-# **sena-base-2021 v6.2.1**
+# Estructura organizacional y plan estratégico **sena-base-2021 v6.2.1**
 
 ## **Enlace GitHubPages**
 

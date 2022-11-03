@@ -2,14 +2,18 @@
   &-1
     animation: float1 3.5s ease-in-out infinite alternate
     position: absolute
-    top: 40%
-    right: 50%
+    top: 60%
+    right: 75%
   &-2
     animation: float1 2.8s ease-in-out infinite alternate
     position: absolute
-    top: 51%
-    right: 30%
-
+    top: 11%
+    right: 68%
+  &-3
+    animation: float1 3.8s ease-in-out infinite alternate
+    position: absolute
+    top: 50%
+    right: 5%
 
 @keyframes float1
   0%
@@ -17,3 +21,194 @@
 
   100%
     transform: translateY(0px)
+
+.banner-principal__componente h1
+  color: #FFEF0F !important
+.banner-interno__fondo
+  //background-image: url(../assets/curso/temas/banner-h.png) !important
+.img-105
+  height: 105px !important
+  justify-content: center!important
+  display: block
+  margin: 0 auto   
+
+.img-196
+  height: 196px !important
+  justify-content: center!important
+  display: block
+  margin: 0 auto    
+.img-133
+  height: 133px !important
+  justify-content: center!important
+  display: block
+  margin: 0 auto    
+.img-150
+  height: 150px !important
+  justify-content: center!important
+  display: block
+  margin: 0 auto   
+.tabs-a__tab 
+  background-color: #E8E8E8 !important
+.tabs-a__tab.tabs-a__tab__selected
+   background-color: #C6412A !important
+
+.fnd-1
+   background-color: #E8EBF9 !important   
+.fnd-2
+   background-color: #E7EAF8 !important      
+.fnd-3 
+  background-color: #E7E7E7 !important
+.fnd-4
+  background-color: #ffffff !important  
+  border-radius: 40px
+.fnd-5
+  background-color: #E7EAF8 !important  
+  border-radius: 40px  
+.fnd-6
+  background-color: #F7E2DF !important
+.fnd-7
+  background-color: #E4E0EE !important
+.fnd-7-
+    background-color: #E4E0EE !important  
+    border-radius: 40px  
+.fnd-77
+    background-color: $color-secundario !important  
+ 
+.fnd-8
+  background-color: #D1D6F3 !important
+.fnd-9
+  background-color: #E8E8E8 !important  
+  border-radius: 40px
+.fnd-10
+  background-color: #E8E8E8!important
+.fnd-11  
+  &::before  
+    background-color: #FFFBB4!important
+.slyder-a__btn--sigt, .slyder-a__btn--atrs  
+  background-color: #4E2E8E
+  background-image: url(../assets/curso/temas/tema4/ffl.svg) !important
+.slyder-a__bullets__item--active
+  background-color: #C6412A !important
+  border-color: #C6412A !important
+.slyder-a__bullets__item
+  background-color: #B0A2CD
+  border-color: #B0A2CD
+
+
+
+
+
+
+.acordion  
+  .acordion__activo
+     background-color: #FFFDDB !important
+.img-infografica__item
+  width: 3.5%
+.amr
+  color: $color-acento-botones !important
+  
+.bz.bloque-texto-a
+  &::before
+    top: 0
+    bottom: 0
+    left: 0
+    right: 50%
+.text-r
+  text-align: end !important
+  align-items: right !important
+  lign-self: end
+.acordion__accion__btn--b
+  background-color: #4E2E8E  
+.linea-tiempo-c__header__item__line-container:after, .linea-tiempo-c__header__item__line-container:before 
+    background-color: #6677D6  
+.linea-tiempo-c__header__item__dot 
+    border: 3px solid #6677D6    
+
+.black
+  color: #271818 !important
+.tarjeta--azul2 
+  background-color: #E7EAF8 !important
+.fnd-f.bloque-texto-a
+  &::before 
+      background-color: #4E2E8E
+      background-image: url(../assets/curso/temas/tema1/fnd-1.png) !important   
+.fnd-f1
+
+      background-color: #4E2E8E
+      background-image: url(../assets/curso/temas/tema1/fnd-1.png) !important        
+
+.t-pur2.acordion__activo
+  background-color: #E4E0EE !important
+
+.t-pur2
+  background-color: #E8E8E8 !important        
+.pp-l
+  padding-left: 4rem !important  
+  padding-right: 2rem !important
+
+.acordion__accion__btn--a 
+    background-color: $color-secundario !important
+.acordion__accion__btn--a i, .acordion__accion__btn--b i 
+    color: #fff !important  
+.izq
+  text-align: left !important
+
+.tarjeta-avatar1
+    height: 335px 
+    position: relative
+    padding-top: 100px  !important        
+.fnd-51
+  background-color: #F6F9CC !important 
+  margin-top: 75px      
+
+.he-2
+    height: 385px 
+
+.img-t
+    position: absolute
+    left: 50%
+    top: -16%
+    transform: translateX(-50%)
+    display: block
+    width: 150px
+    margin: 0 auto    
+
+//-------------------------------------------------------------------
+
+$crd-icon-size: 120px
+$crd-padding: 1.5rem
+$crd-width: calc(100% - ((#{$crd-icon-size} / 2)) 
+
+.crd_02 
+  position: relative
+  display: flex
+  flex-direction: row
+  justify-content: start
+  align-items: center 
+  padding: 1.5rem 1.5rem 1.5rem 0   
+  z-index: 1
+  height: 240px 
+
+  &::before
+    content: ""
+    position: absolute
+    top: 0
+    right: 0
+    width: $crd-width
+    height: 100%    
+    background-color: #CFE8FE
+    border-radius: 15px
+    z-index: -1
+  &__icon
+    order: 1
+    flex-basis: auto
+    width: $crd-icon-size
+    margin-right: 15px
+    img   
+      width: $crd-icon-size
+  &__txt
+    flex: 1 
+    order: 2    
+
+
+

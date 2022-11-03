@@ -5,8 +5,138 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 2
-      h1 Titulo de primer nivel
+      h1 Planeación estratégica
 
+    .row.justify-content-center.align-items-center.mb-5
+      .col-lg-10
+        .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5.mb-5.fnd-in
+          .bloque-texto-g__img(
+            :style="{'background-image': `url(${require('@/assets/curso/temas/tema2/img-1.png')})`}"
+          )
+          .bloque-texto-g__texto.p-4
+            p La planeación es el proceso de diseño, articulación de acciones y verificación de recursos, necesarios para la operación de planes y programas de trabajo que conducen a la obtención de resultados en un periodo determinado.
+            br
+            br
+            p Entonces, se puede deducir que la planeación estratégica sirve para determinar quién es (misión), adónde se quiere llegar (visión) y qué se debe hacer para lograrlo (estrategias), con la finalidad de impulsar el crecimiento de la organización a corto, mediano y largo plazo.
+
+    p.mb-5 La planeación estratégica está conformada por cuatro principales componentes:  
+
+    SlyderF.mb-5.row(columnas="col-lg-6 col-xl-4")
+      .tarjeta.color-acento-botones.p-4.fnd-51.tarjeta-avatar1
+        .row.justify-content-center.mb-3
+          .col-8
+            img.img-150.img-t(src='@/assets/curso/temas/tema2/img-2.svg' alt='AvatarTop')
+        h3.text-center Misión
+        p.text-center.px-4 Un proyecto socialmente productivo, donde la función es sentir a las personas útiles a la sociedad y a ellos mismos (Triana Albis & Maldonado Zarate, 2019, p.15).
+      .tarjeta.color-acento-botones.p-4.fnd-51.tarjeta-avatar1
+        .row.justify-content-center.mb-3
+          .col-8
+            img.img-150.img-t(src='@/assets/curso/temas/tema2/img-3.svg' alt='AvatarTop')
+        h3.text-center Visión
+        p.text-center.px-4 Delinea lo que la organización quiere ser a futuro.
+      .tarjeta.color-acento-botones.p-4.fnd-51.tarjeta-avatar1
+        .row.justify-content-center.mb-3
+          .col-8
+            img.img-150.img-t(src='@/assets/curso/temas/tema2/img-4.svg' alt='AvatarTop')
+        h3.text-center Valores
+        p.text-center.px-4 Es donde se define la cultura y creencias que son compartidas por todos los miembros de la organización; define cultura y prioridades, estableciendo las bases para la toma de decisiones. 
+      .tarjeta.color-acento-botones.p-4.fnd-51.tarjeta-avatar1
+        .row.justify-content-center.mb-3
+          .col-8
+            img.img-150.img-t(src='@/assets/curso/temas/tema2/img-5.svg' alt='AvatarTop')
+        h3.text-center Estrategias
+        p.text-center.px-4 Mezcla de objetivos y medios que delimitan una serie de acciones encaminadas al logro de la visión.
+    br 
+    p El método universal que se utiliza es el análisis DOFA (Debilidades, Oportunidades, Fortalezas y Amenazas), que permite estructurar un diagnóstico tanto, interno como externo, de la organización en su entorno.
+    p A continuación, se hará una breve presentación del significado de los términos contemplados en la DOFA:    
+
+    .row.justify-content-center.align-items-center.mb-5
+      .col-lg-10
+
+
+    .row.justify-content-center
+      .col-lg-10
+        .row.justify-content-center.align-items-center.mb-5
+          .col-lg-6
+            .crd_02.mb-5
+              .crd_02__icon.dan
+                img(src="@/assets/curso/temas/tema2/img-6.svg", alt="alt")          
+              .crd_02__txt
+                h3 Debilidades
+                p Son las limitaciones o carencias de conocimientos, habilidades, tecnología, información y recursos que tiene una organización, y que impide el aprovechamiento de las oportunidades que ofrece el entorno y que no le permite defenderse de las amenazas.
+          .col-lg-6
+            .crd_02.mb-5
+              .crd_02__icon.dan
+                img(src="@/assets/curso/temas/tema2/img-7.svg", alt="alt")          
+              .crd_02__txt
+                h3 Fortalezas 
+                p Son las capacidades humanas, técnicas y materiales con las que cuenta la empresa, para aprovechar las oportunidades que le ofrece el entorno y enfrentar las posibles amenazas.
+          .col-lg-6
+            .crd_02.mb-5
+              .crd_02__icon.dan
+                img(src="@/assets/curso/temas/tema2/img-8.svg", alt="alt")          
+              .crd_02__txt
+                h3 Oportunidades
+                p Son factores socioeconómicos, políticos o culturales, que están fuera del control de la organización pero que, en un momento, se pueden aprovechar si se cumplen determinadas condiciones en el entorno de la organización.
+          .col-lg-6
+            .crd_02.mb-5
+              .crd_02__icon.dan
+                img(src="@/assets/curso/temas/tema2/img-9.svg", alt="alt")          
+              .crd_02__txt
+                h3 Amenazas
+                p Son factores externos, que están fuera del control de la organización y que pueden llegar a perjudicar o limitar el desarrollo de la misma.                
+
+
+    p.mb-3 Ahora, veamos las herramientas principales de la planeación estratégica, las cuales son:
+    ul.lista-ul--color.mb-5
+      li.mb-0 
+        i.fas.fa-check
+        p.mb-0 Filosofía de la gestión empresarial: tiene que ver con aspectos que caracterizan a la empresa y la diferencia de los temas. Está compuesta por cuatro elementos que son: misión, visión, valores y objetivos.
+      li.mb-0 
+        i.fas.fa-check
+        p.mb-0 Análisis FODA: Fortalezas, Oportunidades, Debilidades y Amenazas. Esta herramienta es muy útil porque interviene en la toma de decisiones y en el diseño de un plan estratégico.
+      li.mb-0 
+        i.fas.fa-check
+        p.mb-0 Análisis de los actores: esta herramienta se utiliza para tener en cuenta a los diferentes actores, tanto internos como externos, que ayudan a tomar decisiones en la organización. 
+
+    p.mb-5 El análisis de los actores está compuesto por cuatro partes:
+
+    SlyderF.mb-5.row(columnas="col-lg-6 col-xl-4")
+      .tarjeta.color-acento-botones.p-4.fnd-51.tarjeta-avatar1.he-2
+        .row.justify-content-center.mb-3
+          .col-8
+            img.img-150.img-t(src='@/assets/curso/temas/tema2/img-10.svg' alt='AvatarTop')
+        p.text-center.px-4 Se elabora una propuesta inicial de los diferentes actores, mediante una lluvia de ideas que puede llegar a tener una influencia positiva o negativa, sobre los diferentes procesos de la organización.
+      .tarjeta.color-acento-botones.p-4.fnd-51.tarjeta-avatar1.he-2
+        .row.justify-content-center.mb-3
+          .col-8
+            img.img-150.img-t(src='@/assets/curso/temas/tema2/img-11.svg' alt='AvatarTop')
+        p.text-center.px-4 Se clasifican los actores teniendo en cuenta los siguientes criterios: roles, posición, relaciones predominantes, medios y recursos, intereses y poder.
+      .tarjeta.color-acento-botones.p-4.fnd-51.tarjeta-avatar1.he-2
+        .row.justify-content-center.mb-3
+          .col-8
+            img.img-150.img-t(src='@/assets/curso/temas/tema2/img-12.svg' alt='AvatarTop')
+        p.text-center.px-4 Se analizan los actores y se evalúan las situaciones, identificando cuáles son los más dominantes en conflicto o en posiciones de rechazo, buscando mejorar las relaciones de estos, mediante incentivos o mediaciones para mejorar las relaciones.
+      .tarjeta.color-acento-botones.p-4.fnd-51.tarjeta-avatar1.he-2
+        .row.justify-content-center.mb-3
+          .col-8
+            img.img-150.img-t(src='@/assets/curso/temas/tema2/img-13.svg' alt='AvatarTop')
+        p.text-center.px-4 Se debe realizar una gráfica en la cual se analiza, mediante un cuadrante, la relación entre las variables “poder” e “interés”.
+    br
+    p.mb-5 Avanzando con las herramientas, se pueden crear estrategias uniendo los componentes del análisis FODA de la siguiente forma:
+    .row.justify-content-center.align-items-center.mb-5
+      .col-lg-6
+        .cajon.color-acento-contenido.p-4.mb-4.fnd-6.mb-5.blz
+          p <b>Estrategia FO (Fortalezas - Oportunidades): </b>se utilizan las fortalezas para aprovechar las oportunidades del entorno de la organización. 
+      .col-lg-6
+        .cajon.color-secundario.p-4.mb-4.fnd-7.mb-5
+          p <b>Estrategia DO (Debilidades - Oportunidades): </b>las acciones son orientadas con el propósito de mitigar las debilidades, aprovechando las oportunidades.
+      .col-lg-6
+        .cajon.color-secundario.p-4.mb-4.fnd-7.mb-5
+          p <b>Estrategia FA (Fortalezas - Amenazas):</b> se encamina a optimizar las fortalezas para evadir las amenazas del entorno externo.
+      .col-lg-6
+        .cajon.color-acento-contenido.p-4.mb-4.fnd-6.mb-5.blz
+          p <b>Estrategia DA: (Debilidades - Amenazas):</b> se enfoca en minimizar las debilidades y evitar amenazas. 
 </template>
 
 <script>
