@@ -572,7 +572,7 @@
                     i.fas.fa-file-download
 
     separador
-    #t_1_2.titulo-segundo.color-acento-contenido
+    #t_1_3.titulo-segundo.color-acento-contenido
       h2 1.3 Procesos: componentes y metodología
 
     p.mb-3 Luego de saber cuáles son las áreas funcionales dentro de una organización, se define entonces el proceso, como una secuencia lógica y organizada de actividades donde se marca el principio y el fin, con el objetivo común de transformar las entradas en salidas, para brindar a los clientes un valor agregado.
