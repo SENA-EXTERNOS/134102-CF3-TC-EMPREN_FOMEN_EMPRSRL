@@ -34,6 +34,7 @@
 
 .img-196
   height: 196px !important
+  width: auto
   justify-content: center!important
   display: block
   margin: 0 auto    
@@ -87,18 +88,13 @@
 .slyder-a__btn--sigt, .slyder-a__btn--atrs  
   background-color: #4E2E8E
   background-image: url(../assets/curso/temas/tema4/ffl.svg) !important
+  top: 87%
 .slyder-a__bullets__item--active
   background-color: #C6412A !important
   border-color: #C6412A !important
 .slyder-a__bullets__item
   background-color: #B0A2CD
   border-color: #B0A2CD
-
-
-
-
-
-
 .acordion  
   .acordion__activo
      background-color: #FFFDDB !important
@@ -133,9 +129,15 @@
       background-color: #4E2E8E
       background-image: url(../assets/curso/temas/tema1/fnd-1.png) !important   
 .fnd-f1
-
       background-color: #4E2E8E
       background-image: url(../assets/curso/temas/tema1/fnd-1.png) !important        
+.fnd-f2:before
+      background-color: #4E2E8E
+      background-image: url(../assets/curso/temas/tema1/fnd-2.png) !important  
+.fnd-f2-
+      background-color: #4E2E8E
+      background-image: url(../assets/curso/temas/tema1/fnd-2.png) !important 
+      background-repeat: round
 
 .t-pur2.acordion__activo
   background-color: #E4E0EE !important
@@ -154,11 +156,22 @@
   text-align: left !important
 
 .tarjeta-avatar1
-    height: 335px 
     position: relative
-    padding-top: 100px  !important        
+    padding-top: 100px  !important   
+.tarjeta-avatar1.t1
+      height: 17rem
+.tarjeta-avatar1.t2
+      height: 22rem
+
+@media(min-width:1202px)
+  .crd_02 
+    height: 18rem
+  .tarjeta-avatar1.t1
+    height: 28rem !important
+  .tarjeta-avatar1.t2
+    height: 22rem !important    
 .fnd-51
-  background-color: #F6F9CC !important 
+  background-color: #FFFBC2 !important 
   margin-top: 75px      
 
 .he-2
@@ -187,7 +200,8 @@ $crd-width: calc(100% - ((#{$crd-icon-size} / 2))
   align-items: center 
   padding: 1.5rem 1.5rem 1.5rem 0   
   z-index: 1
-  height: 240px 
+
+  //height: 18rem
 
   &::before
     content: ""
@@ -211,4 +225,46 @@ $crd-width: calc(100% - ((#{$crd-icon-size} / 2))
     order: 2    
 
 
+.crd_03 
+  position: relative
+  display: flex
+  flex-direction: row
+  justify-content: start
+  align-items: center 
+  padding: 1.5rem 1.5rem 1.5rem 0   
+  z-index: 1
+  p, h3
+    color: #fff 
 
+  &::before
+    content: ""
+    position: absolute
+    top: 0
+    right: 0
+    width: $crd-width
+    height: 100%    
+    background-color: $color-secundario
+    //border-radius: 15px
+    z-index: -1
+  &__icon
+    order: 1
+    flex-basis: auto
+    width: $crd-icon-size
+    margin-right: 15px
+    img   
+      width: $crd-icon-size
+  &__txt
+    flex: 1 
+    order: 2   
+
+.crd_03-
+  &::before
+    background-color: $color-primario
+
+.b-rr:before 
+  border-top-left-radius: 30px !important
+
+.acordion__accion__btn--a i, .acordion__accion__btn--b i 
+  color: $color-acento-botones !important  
+.horizontal-scroll
+    align-items: start !important

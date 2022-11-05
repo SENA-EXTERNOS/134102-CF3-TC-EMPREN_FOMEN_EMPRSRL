@@ -37,7 +37,7 @@ export default {
         nombreRuta: 'tema1',
         icono: 'far fa-file-alt',
         numero: '1',
-        titulo: 'Fundamentos para la creación de un sistema productivo',
+        titulo: 'Administración',
         desarrolloContenidos: true,
         subMenu: [
           {
@@ -72,7 +72,7 @@ export default {
         nombreRuta: 'tema3',
         icono: 'far fa-file-alt',
         numero: '3',
-        titulo: 'Planeación estratégica',
+        titulo: 'Diagnóstico: tipos y elementos',
         desarrolloContenidos: true,
       },
       {
@@ -144,7 +144,7 @@ export default {
       referencia:
         'Valdés Hernández, L. A. (s.f.).<em> Manual para la Diagramación de procesos.</em> http://docencia.fca.unam.mx/~lvaldes/cal_pdf/cal18.pdf ',
       tipo: 'PDF',
-      descarga: 'http://docencia.fca.unam.mx/~lvaldes/cal_pdf/cal18.pdf',
+      link: 'http://docencia.fca.unam.mx/~lvaldes/cal_pdf/cal18.pdf',
     },
     {
       tema: 'Manuales: concepto y tipos',
@@ -159,7 +159,7 @@ export default {
       referencia:
         '<em>Departamento Administrativo de la Función Pública.</em> (2015). Guía para establecer o modificar el <br>Manual de Funciones y de Competencias Laborales. https://www.funcionpublica.gov.co<br>/eva/admon/files/empresas/ZW1wcmVz<br>YV83Ng==/imgproductos/<br>1450054176_fd5a8e656d4625258b5ad43233c798bb.pdf',
       tipo: 'PDF',
-      descarga:
+      link:
         'https://www.funcionpublica.gov.co/eva/admon/files/empresas/ZW1wcmVzYV83Ng==/imgproductos/1450054176_fd5a8e656d4625258b5ad43233c798bb.pdf',
     },
   ],

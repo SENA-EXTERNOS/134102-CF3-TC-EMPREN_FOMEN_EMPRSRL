@@ -5,11 +5,11 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 3
-      h1 Planeación estratégica
+      h1 Diagnóstico: tipos y elementos
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-10
-        .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5.mb-5.fnd-in
+        .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5.mb-5.fnd-in.fnd-f2-
           .bloque-texto-g__img(
             :style="{'background-image': `url(${require('@/assets/curso/temas/tema3/img-1.png')})`}"
           )
@@ -77,7 +77,7 @@
 
       .col-lg-10
         .cajon.color-acento-contenido.p-4.mb-4.fnd-6.mb-5.blz
-          p <b>EDiagnóstico específico.</b> Como su nombre lo dice, este modelo se lleva a cabo en determinadas áreas de la empresa y no es tan amplio como el anterior. Por ejemplo: se le puede realizar un diagnóstico al área financiera, que es el espacio donde se manejan los recursos económicos, para conocer cómo se están apropiando los dineros y las ganancias que dejan las inversiones.
+          p <b>Diagnóstico específico.</b> Como su nombre lo dice, este modelo se lleva a cabo en determinadas áreas de la empresa y no es tan amplio como el anterior. Por ejemplo: se le puede realizar un diagnóstico al área financiera, que es el espacio donde se manejan los recursos económicos, para conocer cómo se están apropiando los dineros y las ganancias que dejan las inversiones.
             br
             | Habiendo entendido cuáles son los tipos de diagnóstico, a continuación, lo invitamos a conocer sobre sus matrices.
 
@@ -94,7 +94,7 @@
             h3 Matriz DOFA
             p Esta matriz permite hacer un estudio de la situación de la empresa o proyecto, donde se pueden analizar características internas (debilidades y fortalezas), o externas (amenazas y oportunidades).
           .tarjeta.color-secundario.p-3(x="23.5%" y="20.7%" numero="2")
-            h3 Matriz PCI: 
+            h3 Matriz PCI
             p Con esta matriz se pretende definir cuáles son las fortalezas y debilidades, al igual que el impacto que generan en la organización. Se agrupan por:
             ul.lista-ul--color.mb-5
               li.mb-0 
@@ -115,26 +115,26 @@
            
           .tarjeta.color-secundario.p-3(x="39.8%" y="6%" numero="3")
             h3 Matriz POAM (Perfil de Oportunidades y Amenazas en el Medio) 
-            p (Perfil de Oportunidades y Amenazas en el Medio): con esta matriz se identifican cuáles son las oportunidades y amenazas del ambiente en la empresa, dejando un nivel de calificación bajo, medio o alto.
+            p con esta matriz se identifican cuáles son las oportunidades y amenazas del ambiente en la empresa, dejando un nivel de calificación bajo, medio o alto.
           .tarjeta.color-secundario.p-3(x="60.4%" y="6%" numero="4")
             h3 Matriz PEST (también conocida como PESTLE) 
             p Esta matriz permite realizar una investigación minuciosa del entorno de la empresa, analizando factores políticos, económicos, sociales, tecnológicos, ecológicos y legales.
           .tarjeta.color-secundario.p-3(x="76.5%" y="20.8%" numero="5")
-            h3 Matriz BCG o Matriz de crecimiento: 
+            h3 Matriz BCG o Matriz de crecimiento
             p Esta matriz se encarga de hacer un análisis del portafolio de la empresa, con base en dos factores importantes que son: la tasa de crecimiento del mercado y la participación en el mismo.
           .tarjeta.color-secundario.p-3(x="89%" y="47.6%" numero="6")
-            h3 Matriz PEYEA (Posición Estratégica y Evaluación de la Acción): 
+            h3 Matriz PEYEA (Posición Estratégica y Evaluación de la Acción)
             p Matriz que tiene como objetivo definir cuáles son las estrategias más adecuadas para la organización, una vez que se haya llevado a cabo el análisis interno y el externo.            
 
     p.mb-5 Una vez expuestas las matrices diagnósticas, es necesario conocer las herramientas que se utilizan en el desarrollo del diagnóstico empresarial y con las cuales se puede definir claramente un panorama amplio sobre el nivel de competitividad, la lista de oportunidades del entorno y el plan de mejoramiento y, al mismo tiempo, compararse con otras empresas.
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-10
-        .bloque-texto-a.color-primario.p-4.p-md-5.mb-5.fnd-14.fnd-3
+        .bloque-texto-a.color-primario.p-4.p-md-5.mb-5.fnd-14.fnd-3.fnd-f2
           .row.m-0.align-items-center.justify-content-between
             .col-lg-4.mb-4.mb-lg-0
               figure
-                img(src='@/assets/curso/temas/tema3/img-7.svg')  
+                img.img-196(src='@/assets/curso/temas/tema3/img-7.svg')  
 
             .col-lg-8
               .bloque-texto-a__texto.p-4
@@ -142,14 +142,14 @@
 
 
       .col-lg-10
-        .bloque-texto-a.color-primario.p-4.p-md-5.mb-5.fnd-14.fnd-3.fnd-f.fnd-3.bz
+        .bloque-texto-a.color-primario.p-4.p-md-5.mb-5.fnd-14.fnd-3.fnd-f.fnd-3.bz.fnd-f2
           .row.m-0.align-items-center.justify-content-between
-            .col-lg-8
+            .col-lg-8.mb-4.mb-lg-0
               .bloque-texto-a__texto.p-4
                 p Por otra parte, está el diagrama causa–efecto, que es un gráfico que permite determinar las causas y efectos de un problema; también es conocido como espina de pescado y, por último, tenemos la matriz EFE, que es el resumen evaluativo de la información donde se analizan factores sociales, económicos, culturales, demográficos, ambientales, tecnológicos y políticos, de la organización.          
-            .col-lg-4.mb-4.mb-lg-0
+            .col-lg-4
               figure
-                img(src='@/assets/curso/temas/tema3/img-8.svg')  
+                img.img-196(src='@/assets/curso/temas/tema3/img-8.svg')  
 
 
     p.mb-5 Lo invitamos a ver el siguiente video, donde se nos amplía la temática sobre el diagnóstico.

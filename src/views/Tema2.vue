@@ -9,7 +9,7 @@
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-10
-        .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5.mb-5.fnd-in
+        .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5.mb-5.fnd-in.fnd-f2-
           .bloque-texto-g__img(
             :style="{'background-image': `url(${require('@/assets/curso/temas/tema2/img-1.png')})`}"
           )
@@ -22,25 +22,25 @@
     p.mb-5 La planeación estratégica está conformada por cuatro principales componentes:  
 
     SlyderF.mb-5.row(columnas="col-lg-6 col-xl-4")
-      .tarjeta.color-acento-botones.p-4.fnd-51.tarjeta-avatar1
+      .tarjeta.color-acento-botones.p-4.fnd-51.tarjeta-avatar1.t2
         .row.justify-content-center.mb-3
           .col-8
             img.img-150.img-t(src='@/assets/curso/temas/tema2/img-2.svg' alt='AvatarTop')
         h3.text-center Misión
-        p.text-center.px-4 Un proyecto socialmente productivo, donde la función es sentir a las personas útiles a la sociedad y a ellos mismos (Triana Albis & Maldonado Zarate, 2019, p.15).
-      .tarjeta.color-acento-botones.p-4.fnd-51.tarjeta-avatar1
+        p.text-center.px-4 Es la razón de ser de la organización, donde se fundamenta el propósito de porqué existe y qué hace para lograr su visión.
+      .tarjeta.color-acento-botones.p-4.fnd-51.tarjeta-avatar1.t2
         .row.justify-content-center.mb-3
           .col-8
             img.img-150.img-t(src='@/assets/curso/temas/tema2/img-3.svg' alt='AvatarTop')
         h3.text-center Visión
         p.text-center.px-4 Delinea lo que la organización quiere ser a futuro.
-      .tarjeta.color-acento-botones.p-4.fnd-51.tarjeta-avatar1
+      .tarjeta.color-acento-botones.p-4.fnd-51.tarjeta-avatar1.t2
         .row.justify-content-center.mb-3
           .col-8
             img.img-150.img-t(src='@/assets/curso/temas/tema2/img-4.svg' alt='AvatarTop')
         h3.text-center Valores
-        p.text-center.px-4 Es donde se define la cultura y creencias que son compartidas por todos los miembros de la organización; define cultura y prioridades, estableciendo las bases para la toma de decisiones. 
-      .tarjeta.color-acento-botones.p-4.fnd-51.tarjeta-avatar1
+        p.text-center.px-2 Es donde se define la cultura y creencias que son compartidas por todos los miembros de la organización; define cultura y prioridades, estableciendo las bases para la toma de decisiones. 
+      .tarjeta.color-acento-botones.p-4.fnd-51.tarjeta-avatar1.t2
         .row.justify-content-center.mb-3
           .col-8
             img.img-150.img-t(src='@/assets/curso/temas/tema2/img-5.svg' alt='AvatarTop')
@@ -102,22 +102,22 @@
     p.mb-5 El análisis de los actores está compuesto por cuatro partes:
 
     SlyderF.mb-5.row(columnas="col-lg-6 col-xl-4")
-      .tarjeta.color-acento-botones.p-4.fnd-51.tarjeta-avatar1.he-2
+      .tarjeta.color-acento-botones.p-4.fnd-51.tarjeta-avatar1.he-2.t1
         .row.justify-content-center.mb-3
           .col-8
             img.img-150.img-t(src='@/assets/curso/temas/tema2/img-10.svg' alt='AvatarTop')
         p.text-center.px-4 Se elabora una propuesta inicial de los diferentes actores, mediante una lluvia de ideas que puede llegar a tener una influencia positiva o negativa, sobre los diferentes procesos de la organización.
-      .tarjeta.color-acento-botones.p-4.fnd-51.tarjeta-avatar1.he-2
+      .tarjeta.color-acento-botones.p-4.fnd-51.tarjeta-avatar1.he-2.t1
         .row.justify-content-center.mb-3
           .col-8
             img.img-150.img-t(src='@/assets/curso/temas/tema2/img-11.svg' alt='AvatarTop')
         p.text-center.px-4 Se clasifican los actores teniendo en cuenta los siguientes criterios: roles, posición, relaciones predominantes, medios y recursos, intereses y poder.
-      .tarjeta.color-acento-botones.p-4.fnd-51.tarjeta-avatar1.he-2
+      .tarjeta.color-acento-botones.p-4.fnd-51.tarjeta-avatar1.he-2.t1
         .row.justify-content-center.mb-3
           .col-8
             img.img-150.img-t(src='@/assets/curso/temas/tema2/img-12.svg' alt='AvatarTop')
         p.text-center.px-4 Se analizan los actores y se evalúan las situaciones, identificando cuáles son los más dominantes en conflicto o en posiciones de rechazo, buscando mejorar las relaciones de estos, mediante incentivos o mediaciones para mejorar las relaciones.
-      .tarjeta.color-acento-botones.p-4.fnd-51.tarjeta-avatar1.he-2
+      .tarjeta.color-acento-botones.p-4.fnd-51.tarjeta-avatar1.he-2.t1
         .row.justify-content-center.mb-3
           .col-8
             img.img-150.img-t(src='@/assets/curso/temas/tema2/img-13.svg' alt='AvatarTop')

@@ -5,9 +5,23 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 1
-      h1 Fundamentos para la creación de un sistema productivo 
+      h1 Administración
 
-    p.mb-5 Para comenzar, debemos tener presente, el origen y definición etimológica de la palabra “administración”, la cual viene del latín <em>administratio;</em> se forma del prefijo “ad”, hacia, y de<em> “ministratio”.</em> Esta última palabra viene a su vez de <em>“minister”,</em> vocablo compuesto de <em>“minus”,</em> comparativo de inferioridad, y del sufijo <em>“ter”, </em>que sirve como término de comparación; entonces,<em> “magister” </em>(magistrado), indica una función de preeminencia o autoridad –el que ordena o dirige a otros en una función–;<em> “minister”</em> expresa precisamente lo contrario: subordinación u obediencia; el que realiza una función bajo el mando de otro; el que presta un servicio a otro. En conclusión, se puede decir que la administración se refiere a una función que se desarrolla bajo el mando de otro, de un servicio que se presta. Por consiguiente, servicio y subordinación, son los elementos principales obtenidos. 
+    p.mb-5 Para comenzar, debemos tener presente, el origen y definición etimológica de la palabra “administración”, la cual viene del latín <em>administratio;</em> se forma del prefijo “ad”, hacia, y de<em> “ministratio”.</em> Esta última palabra viene a su vez de <em>“minister”,</em> vocablo compuesto de <em>“minus”,</em> comparativo de inferioridad, y del sufijo <em>“ter”, </em>que sirve como término de comparación; entonces,<em> “magister” </em>(magistrado), indica una función de preeminencia o autoridad –el que ordena o dirige a otros en una función–;<em> “minister”</em> expresa precisamente lo contrario: subordinación u obediencia; el que realiza una función bajo el mando de otro; el que presta un servicio a otro. 
+    .row.justify-content-center.align-items-center.mb-5
+      .col-lg-10
+        .cajon.color-secundario.p-4.mb-4.fnd-7
+          p En conclusión, se puede decir que la administración se refiere a una función que se desarrolla bajo el mando de otro, de un servicio que se presta. Por consiguiente, servicio y subordinación, son los elementos principales obtenidos. 
+
+
+
+
+
+
+
+
+
+
     p.mb-5 A continuación, se alude a conceptos sobre administración, definidos por algunos autores contemporáneos:
 
     TabsA.color-acento-contenido.mb-5
@@ -54,40 +68,40 @@
     .tarjeta.tarjeta--gris.p-4.mb-5.fnd-2
       LineaTiempoC.color-acento-contenido(text-small)
         .row.px-5(titulo="Época primitiva")
-          .col-md-6
+          .col-md-6.mb-4.mb-md-0
             figure
               img.img-81(src='@/assets/curso/temas/tema1/img-4.png')              
-          .col-md-6.mb-4.mb-md-0
+          .col-md-6
             p En esta época, los miembros de las tribus trabajaban en actividades como la caza, la pesca y la recolección. Los jefes de familia eran los que ejercían la autoridad y tomaban las decisiones más importantes. Existía la división del trabajo y de acuerdo con las capacidades de los sexos y las edades. Cuando los hombres trabajaron en grupo, se dio el inicio de la administración.
         .row.px-5(titulo="Periodo agrícola")
-          .col-md-6
+          .col-md-6.mb-4.mb-md-0
             figure
               img.img-81(src='@/assets/curso/temas/tema1/img-5.png')              
-          .col-md-6.mb-4.mb-md-0
+          .col-md-6
             p Se caracterizó por la aparición de la agricultura y la vida sedentaria; continuó la división de trabajo por edad y sexo. Se acentuó la organización social de tipo patriarcal. La caza, la pesca y la recolección, pasaron a ocupar un lugar de segunda importancia en la economía agrícola.
         .row.px-5(titulo="Antigüedad grecolatina")
-          .col-md-6
+          .col-md-6.mb-4.mb-md-0
             figure
               img.img-81(src='@/assets/curso/temas/tema1/img-6.png')              
-          .col-md-6.mb-4.mb-md-0
+          .col-md-6
             p En esta época apareció el esclavismo; la administración se orientó hacia una estricta supervisión del trabajo y el castigo corporal, como una forma de disciplina. El esclavo carecía de derechos y se le ocupaba en cualquier labor de producción. Existió un bajo rendimiento productivo ocasionado por el descontento y el trato inhumano que sufrieron los esclavos, debido a estas medidas administrativas.
         .row.px-5(titulo="Época feudal")
-          .col-md-6
+          .col-md-6.mb-4.mb-md-0
             figure
               img.img-81(src='@/assets/curso/temas/tema1/img-7.png')              
-          .col-md-6.mb-4.mb-md-0
+          .col-md-6
             p Durante el feudalismo, las relaciones sociales se caracterizaron por un régimen de servidumbre. La administración interior del feudo, estaba sujeta a la administración del señor feudal, quien ejercía control sobre la producción del siervo. Al finalizar esta época, una gran cantidad de siervos se convirtieron en trabajadores independientes, organizándose así los talleres artesanales y el sistema de oficios, con nuevas estructuras de autoridad en la administración. Los artesanos-patrones, trabajaban al lado de los oficiales y aprendices, en quienes delegaban su autoridad. El desarrollo del comercio en gran escala, originó que la economía familiar se convirtiera en economía de ciudad. Aparecieron las corporaciones o gremios, que regulan horarios, salarios y demás condiciones de trabajo; en dichos organismos, se encuentra el origen de los actuales sindicatos.
         .row.px-5(titulo="Revolución industrial")
-          .col-md-6
+          .col-md-6.mb-4.mb-md-0
             figure
               img.img-81(src='@/assets/curso/temas/tema1/img-8.png')              
-          .col-md-6.mb-4.mb-md-0
+          .col-md-6
             p Esta época se caracterizó por el surgimiento de diversos inventos y descubrimientos como la máquina de vapor, lo que impulsó el desarrollo industrial y originó grandes cambios en la organización
         .row.px-5(titulo="Administración del siglo XX")
-          .col-md-6
+          .col-md-6.mb-4.mb-md-0
             figure
               img.img-81(src='@/assets/curso/temas/tema1/img-9.png')              
-          .col-md-6.mb-4.mb-md-0
+          .col-md-6
             p La característica de esta época es el desarrollo técnico e industrial que fortaleció la administración; además, surge la administración científica, siendo Frederick Winslow Taylor su fundador y luego varios autores se dedicaron al estudio de esta disciplina. A partir de esta época, la administración se fortalece más y se vuelve indispensable en cualquier actividad organizada.
 
     separador
@@ -167,7 +181,7 @@
                 p.mb-2 Dirección.
               li.mb-0.black
                 i.fas.fa-greater-than.black
-                p.mb-2 Coordinación.
+                p.mb-2 Coordinación..fnd-f1
               li.mb-0.black
                 i.fas.fa-greater-than.black
                 p.mb-2 Control.
@@ -205,20 +219,63 @@
     p.mb-5 Ampliemos la información sobre cada una de ellas.
 
     .row.justify-content-center.align-items-center.mb-5.fnd-1.p-5
-      .h3.text-center.mb-5 ETAPAS DEL PROCESO ADMINISTRATIVO
+      .h2.text-center.mb-5 Etapas del proceso administrativo
       .col-lg-11
-        figure
-          img(src='@/assets/curso/temas/tema1/img-14-.svg')  
+
+        .crd_03.b-rr 
+          .crd_03__icon.mb-sm-5
+            img(src="@/assets/curso/temas/tema1/img-14.png", alt="alt")          
+          .crd_03__txt
+            h3 Planeación
+            p En esta etapa, se da respuesta a la pregunta: ¿qué se va a hacer? Donde se tienen en cuenta objetivos,   políticas, diagnósticos, programas y presupuestos. Además, se definen los planes a lograr y se programan las actividades. 
+        .crd_03.crd_03-
+          .crd_03__icon.dan
+            img(src="@/assets/curso/temas/tema1/img-15.png", alt="alt")          
+          .crd_03__txt
+            h3 Organización
+            p Aquí se define cómo se dividirán: el trabajo,  las unidades de mando y los procedimientos. Además, se establecen:
+              .row.justify-content-center.align-items-center
+                .col-lg-6
+                  ul.lista-ul--color
+                    li.mb-0 
+                      i.fas.fa-check
+                      p.mb-0  Recursos y actividades para alcanzar   los objetivos.
+                    li.mb-0 
+                      i.fas.fa-check
+                      p.mb-0  Órganos y cargos
+                .col-lg-6                
+                  ul.lista-ul--color.mb-3
+                    li.mb-0 
+                      i.fas.fa-check
+                      p.mb-0  Atribuciones de autoridades y responsabilidad.
+
+        .crd_03
+          .crd_03__icon.dan
+            img(src="@/assets/curso/temas/tema1/img-16.png", alt="alt")          
+          .crd_03__txt
+            h3 Dirección
+            p En esta etapa, conocemos cómo se debe hacer. Se designan cargos, se toman decisiones, existe una  dirección, delegación y supervisión,    para lograr los objetivos. Se motiva al personal, hay liderazgo y comunicación. 
+        .crd_03.crd_03-
+          .crd_03__icon.dan
+            img(src="@/assets/curso/temas/tema1/img-17.png", alt="alt")          
+          .crd_03__txt
+            h3 Control
+            p La vigilancia es vital en esta etapa, por lo  que se determina: ¿cómo se hizo? Se realizan evaluaciones, comparaciones, correcciones de fallas para garantizar que se realice la planeación y la retroalimentación y se definen    estándares para medir el desempeño.                      
+
+
+
+
+
       
 
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-10
-        .bloque-texto-a.color-primario.p-4.p-md-5.mb-5.fnd-14.fnd-3
+        .bloque-texto-a.color-primario.p-4.p-md-5.mb-5.fnd-3.fnd-f2
           .row.m-0.align-items-center.justify-content-between
             .col-lg-4.mb-4.mb-lg-0
               figure
-                img(src='@/assets/curso/temas/tema1/img-18.png')  
+                img.img-196(src='@/assets/curso/temas/tema1/img-18.png')  
 
             .col-lg-8
               .bloque-texto-a__texto.p-4
@@ -235,7 +292,8 @@
       .col-lg-8
         .titulo-sexto.color-acento-contenido(data-aos='fade-right')
           h5 Figura 1. 
-          span Fases del proceso administrativo 
+          span 
+            em Fases del proceso administrativo 
       .col-lg-8.fnd-5.p-5
           figure
             img(src='@/assets/curso/temas/tema1/img-19.svg')  
@@ -263,7 +321,7 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-8
         .row.justify-content-center.mb-5
-          .col-lg-6
+          .col-lg-6.mb-5
             .tarjeta.tarjeta-slide.arriba.color-secundario(@mouseover="indicadorTarjetaSlide = false")
               .indicador--hover(v-if="indicadorTarjetaSlide")
               .tarjeta-slide__contenedor
@@ -283,7 +341,8 @@
 
                 .tarjeta-slide__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tema1/img-22.png')})`}")
         .row.justify-content-center.mb-5
-          .col-lg-6
+          .col-lg-6.mb-5
+
             .tarjeta.tarjeta-slide.arriba.color-secundario(@mouseover="indicadorTarjetaSlide = false")
               .indicador--hover(v-if="indicadorTarjetaSlide")
               .tarjeta-slide__contenedor
@@ -333,10 +392,10 @@
                   .lista-ol--cuadro__vineta
                     span 5
                   | Por su presentación o disposición gráfica.
-
+    p.mb-5 A continuación, se profundiza en estos conceptos:
 
     AcordionA(tipo="a" clase-tarjeta="tarjeta t-pur2 mb-5")
-      .row(titulo="Fundamentos")
+      .row(titulo="Por su naturaleza")
           .col-lg-7
             p.pp-l Se dividen en tres grupos:
             p.pp-l 
@@ -390,7 +449,7 @@
                     img(src='@/assets/curso/temas/tema1/img-26.png')  
       .row(titulo="Por su ámbito")
           .col-lg-7
-            p.pp-l Se dividen en cuatro tipos:
+            p.pp-l Se dividen en dos tipos:
             p.pp-l 
               ul.lista-ul--color.mb-3
                   li.mb-0 
@@ -482,7 +541,7 @@
           .row.m-0.align-items-center.justify-content-between
             .col-lg-8
               .bloque-texto-a__texto.p-4
-                h3 Para la correcta creación de un organigrama, también es importante aprender sobre las herramientas que existen para visualizar la estructura empresarial; entre los mejores software para organigramas, podemos mencionar los siguientes:
+                h3 Para la correcta creación de un organigrama, también es importante aprender sobre las herramientas que existen para visualizar la estructura empresarial; entre los mejores<em> software</em> para organigramas, podemos mencionar los siguientes:
                        
             .col-lg-4.mb-4.mb-lg-0
               ul.lista-ul--color.mb-3
@@ -521,9 +580,9 @@
       .col-lg-10
         .cajon.color-secundario.p-4.mb-4.fnd-7.mb-5.bz
           .row.justify-content-center.align-items-center
-            .col-lg-2.px-4
+            .col-lg-2.px-4.mb-3
               figure
-                    img(src='@/assets/curso/temas/tema1/img-30.png')  
+                    img.img-196(src='@/assets/curso/temas/tema1/img-30.png')  
             .col-lg-10
               p Es importante saber que, en toda empresa, se asignan roles en el equipo de trabajo y todo depende de las competencias y habilidades técnicas y profesionales con las cuales se identifica cada uno de los candidatos o colaboradores que desempeñarán la labor. Los roles están relacionados con el estatus y el nivel de jerarquía.
 
@@ -532,11 +591,11 @@
       .col-lg-10
         .bloque-texto-a.color-primario.p-4.p-md-5.mb-5.fnd-f.fnd-3.bz
           .row.m-0.align-items-center.justify-content-between
-            .col-lg-8
+            .col-lg-8.mb-4.mb-lg-0
               .bloque-texto-a__texto.p-4
                 h3 Para determinar los roles, hay que identificar cuáles son las funciones a realizar y cuál es el nivel de responsabilidad y autoridad que se tiene dentro de la organización y, dependiendo de su tamaño, las empresas cuentan con cinco áreas funcionales que son las siguientes:
                        
-            .col-lg-4.mb-4.mb-lg-0
+            .col-lg-4
               ul.lista-ul--color.mb-3
                   li.mb-0 
                     i.fas.fa-check
@@ -552,7 +611,7 @@
                     p.mb-0  Finanzas
                   li.mb-0 
                     i.fas.fa-check
-                    p.mb-0  Marketing
+                    p.mb-0  <em>Marketing</em>
 
     p.mb-5 Cada una de estas áreas, junto con la realización de los procesos necesarios dentro de una organización, juegan un papel muy importante en el logro de las metas y objetivos formulados, así como también permiten la obtención de un mejor control y supervisión.
     .row.justify-content-center.align-items-center.mb-5
@@ -583,7 +642,7 @@
         figure
           img(src='@/assets/curso/temas/tema1/img-32.svg')  
       .col-lg-8 
-        AcordionA(tipo="a" clase-tarjeta="tarjeta t-pur2 mb-5")
+        AcordionA(tipo="a" clase-tarjeta="tarjeta t-pur2")
           .row(titulo="Las entradas al proceso ")
                 p.pp-l Es todo aquello que va a ser transformado, por las actividades que se desarrollan en el proceso; para el caso de los servicios, se refiere a las personas.
           .row(titulo="Unidad de flujo")
@@ -685,6 +744,7 @@
 
 
     p.mb-5 Teniendo claros los símbolos a utilizar en la elaboración de un diagrama de flujo, estudiemos los pasos que se deben seguir.
+    p.mb-5 Los pasos para la elaboración de un diagrama de flujo son:
 
     PasosA.color-acento-contenido.mb-5(tipo="n")
       .row(titulo="")
@@ -714,7 +774,7 @@
               img.img-133(src='@/assets/curso/temas/tema1/img-43.svg')           
         .col-md-9.mb-4.mb-md-0
           h4.izq Dibujar el diagrama de flujo
-          p.izq Se recomienda realizar un esquema a mano o utilizar una herramienta o software, para generar diagramas de flujo.
+          p.izq Se recomienda realizar un esquema a mano o utilizar una herramienta o <em>software,</em> para generar diagramas de flujo.
       .row(titulo="")
         .col-md-9.mb-4.mb-md-0
           h4 Confirmar y perfeccionar el diagrama de flujo

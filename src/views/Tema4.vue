@@ -14,7 +14,7 @@
             :style="{'background-image': `url(${require('@/assets/curso/temas/tema4/img-1.png')})`}"
           )
           .bloque-texto-g__texto.p-4
-            p Luego de conocer el diagnóstico empresarial, se hace necesario hablar del talento humano, al que podemos definir como: el proceso que determina las capacidades, habilidades y destrezas que debe tener una persona para ejecutar, de manera eficiente, las actividades en un determinado puesto de trabajo.
+            p Luego de conocer el diagnóstico empresarial, se hace necesario hablar del <b>talento humano</b>, al que podemos definir como: el proceso que determina las capacidades, habilidades y destrezas que debe tener una persona para ejecutar, de manera eficiente, las actividades en un determinado puesto de trabajo.
 
     ul.lista-ul--color.mb-3
       li 
@@ -80,7 +80,7 @@
                 i.fas.fa-check
                 p.mb-0  Cargo del jefe inmediato.
 
-    p.mb-5 También se deben tener en cuenta los métodos de descripción y análisis del cargo, entre los cuales se encuentran:
+    p.mb-5 También se deben tener en cuenta los <b>métodos</b> de descripción y análisis del cargo, entre los cuales se encuentran:
 
     SlyderA.fnd-7-.p-5.mb-5
       .row.p-5
@@ -100,7 +100,7 @@
       .row.p-5
         .col-md-6.mb-4.mb-md-0
           h3 Entrevista directa
-          p Este método es mucho más flexible, porque el analista le realiza una entrevista al ocupante del puesto y obtiene información sobre todos los aspectos, como las tareas, porqué y cuando las realiza, así como también se pueden conocer las habilidades que se requieren para ocupar el puesto.
+          p Este método es mucho más flexible, porque el analista le realiza una entrevista al ocupante del puesto y obtiene información sobre todos los aspectos, como las tareas, porque y cuando las realiza, así como también se pueden conocer las habilidades que se requieren para ocupar el puesto.
         .col-md-6
           figure
             img(src='@/assets/curso/temas/tema4/img-8.png')
@@ -111,6 +111,12 @@
         .col-md-6
           figure
             img(src='@/assets/curso/temas/tema4/img-9.png')
+
+    ul.lista-ul--color.mb-3
+      li 
+        i.fas.fa-square
+        | 
+        h3.text-black Estructura salarial
 
     p.mb-5 En la legislación colombiana, el salario es un concepto amplio y genérico; después de abordar la temática del talento humano, es de gran importancia hacer énfasis en la remuneración del trabajador, que puede ser fija u ordinaria y que implica la retribución de los servicios, cualquiera que sea la forma de denominación que se adopte, tales como primas, sobresueldos, bonificaciones, etc.            
     .row.justify-content-center.align-items-center.mb-5
@@ -131,7 +137,7 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-10
         .row.mb-5
-          .col-sm-6.col-xl-6.mb-4.mb-xl-0
+          .col-xl-6.mb-4.mb-xl-0
             .tarjeta.tarjeta-flip.color-primario(@mouseover="indicadorTarjetaFlip = false")
               .indicador--hover(v-if="indicadorTarjetaFlip")
               .tarjeta-flip__contenedor
@@ -148,7 +154,7 @@
                   h3.text-center.text-white Remuneración económica directa
                   p.text-center.px-4.text-white Es el pago que recibe cada empleado en forma de salarios, bonos, premios y comisiones.
 
-          .col-sm-6.col-xl-6.mb-4.mb-xl-0
+          .col-xl-6.mb-4.mb-xl-0
             .tarjeta.tarjeta-flip.color-primario(@mouseover="indicadorTarjetaFlip = false")
               .indicador--hover(v-if="indicadorTarjetaFlip")
               .tarjeta-flip__contenedor
@@ -173,10 +179,10 @@
       .col-lg-10
         .cajon.color-secundario.p-4.mb-4.fnd-7.mb-5
           .row.justify-content-center.align-items-center
-            .col-lg-2
-              figure
-                img(src='@/assets/curso/temas/tema4/img-12.svg')
-            .col-lg-10.pp-l
+            .col-md-2
+              figure.mb-3
+                img.img-105(src='@/assets/curso/temas/tema4/img-12.svg')
+            .col-md-10.pp-l
               ul.lista-ul--color.mb-3
                 li.mb-0 
                   i.fas.fa-check

@@ -19,7 +19,7 @@
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-10
-        .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5.mb-5.fnd-in
+        .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5.fnd-in
           .bloque-texto-g__img(
             :style="{'background-image': `url(${require('@/assets/curso/temas/tema5/img-1.png')})`}"
           )
@@ -41,7 +41,11 @@
                 i.fas.fa-check
                 p.mb-0  Manual de reclutamiento y selección de personal.
 
-
+    ul.lista-ul--color.mb-3
+      li 
+        i.fas.fa-square
+        | 
+        h3.text-black Manual de funciones
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-10
         .cajon.color-acento-contenido.p-4.mb-4.fnd-6.mb-5.blz
@@ -57,7 +61,7 @@
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
                   h3.mb-1 Guía para establecer o modificar el Manual de Funciones y de Competencias Laborales
-                  p.text-small Para ampliar la información, lo invitamos a leer la<em> Guía para establecer o modificar el Manual de Funciones y de Competencias Laborales,</em> la cual se encuentra en el material complementario.
+                  p.text-small Para ampliar la información, lo invitamos a leer la<b> Guía para establecer o modificar el Manual de Funciones y de Competencias Laborales,</b> la cual se encuentra en el material complementario.
                 .col-sm-auto
                   a.boton.color-acento-botones(:href="('https://www.funcionpublica.gov.co/eva/admon/files/empresas/ZW1wcmVzYV83Ng==/imgproductos/1450054176_fd5a8e656d4625258b5ad43233c798bb.pdf')" target="_blank")
                     span Descargar
@@ -91,7 +95,7 @@
                 img(src="@/assets/curso/temas/tema5/img-3.svg", alt="alt")          
               .crd_02__txt
                 h3 Leyes 617 de 2000 y 1551 de 2012, - Decreto Ley 785 de 2005, art. 13
-                p Señala unas funciones generales que sirven como marco de referencia para que cada entidad ajuste su manual específico, de acuerdo con dichas funciones generales, por nivel de empleo.
+                p Categorización de los departamentos y municipios.
           .col-lg-6
             .crd_02.mb-5.fnd-11
               .crd_02__icon.dan
@@ -105,7 +109,7 @@
         .cajon.color-secundario.p-4.mb-4.fnd-7.mb-5
           .row.justify-content-center.align-items-center
             .col-lg-2
-              figure
+              figure.mb-3
                 img.img-105(src='@/assets/curso/temas/tema5/img-4.svg')
             .col-lg-10.pp-l
               p Recuerde explorar los demás recursos que se encuentran disponibles en este componente formativo; para ello, diríjase al menú principal donde encontrará la síntesis, el material complementario, entre otros. Adicional, lo invitamos a desarrollar la actividad didáctica para reforzar los conceptos estudiados.
