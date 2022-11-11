@@ -292,7 +292,7 @@
       .col-lg-8
         .titulo-sexto.color-acento-contenido(data-aos='fade-right')
           h5 Figura 1. 
-          span 
+          p.mb-0
             em Fases del proceso administrativo 
       .col-lg-8.fnd-5.p-5
           figure
