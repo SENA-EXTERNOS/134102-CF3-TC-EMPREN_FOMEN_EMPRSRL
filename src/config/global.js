@@ -3,7 +3,7 @@ export default {
     componenteFormativo: 'Estructura organizacional y plan estratégico',
     descripcionCurso:
       'En este componente formativo, se desarrollarán temas que permitirán a los emprendedores apropiarse de conocimientos claros y concisos para realizar una buena gestión administrativa y de talento humano en las unidades productivas formalizadas. Los temas a tratar son: administración, proceso administrativo, organigrama, planeación estratégica, herramientas, diagnóstico, matrices, talento humano, análisis de cargo y perfiles, estructura salarial, herramientas, manuales y funciones.',
-    imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal-.svg'),
+    imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal-.png'),
     imagenesDecorativasBanner: [
       {

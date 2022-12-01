@@ -11,7 +11,7 @@
       .col-lg-10
         .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5.mb-5.fnd-in.fnd-f2-
           .bloque-texto-g__img(
-            :style="{'background-image': `url(${require('@/assets/curso/temas/tema2/img-1.png')})`}"
+            :style="{'background-image': `url(${require('@/assets/curso/temas/tema2/img-1-.png')})`}"
           )
           .bloque-texto-g__texto.p-4
             p La planeación es el proceso de diseño, articulación de acciones y verificación de recursos, necesarios para la operación de planes y programas de trabajo que conducen a la obtención de resultados en un periodo determinado.

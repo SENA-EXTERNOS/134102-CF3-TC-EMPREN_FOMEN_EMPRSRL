@@ -141,7 +141,7 @@
                 p.mb-2 Comando.
           .col-md-6
             figure.fnd-4.p-4
-              img.img-81(src='@/assets/curso/temas/tema1/img-10.png')  
+              img.img-81(src='@/assets/curso/temas/tema1/img-10-.png')  
       .py-4.py-md-5.fnd-3(titulo="Koontz y O’Donnell")
         .row.px-5
           .col-md-6.mb-4.mb-md-0
@@ -307,7 +307,7 @@
       .col-lg-10
         .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5.mb-5.fnd-f1
           .bloque-texto-g__img(
-            :style="{'background-image': `url(${require('@/assets/curso/temas/tema1/img-20.png')})`}"
+            :style="{'background-image': `url(${require('@/assets/curso/temas/tema1/img-20-.png')})`}"
           )
           .bloque-texto-g__texto.p-4
             p Un organigrama se puede definir como la representación gráfica y esquemática de una estructura organizacional, en la cual se muestran las relaciones que guardan entre sí los órganos que la componen (Manjarrés, 2016).
@@ -318,10 +318,10 @@
     p A continuación, se ampliará la definición de organigrama, según reconocidos autores:
 
 
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.mb-5
       .col-lg-8
-        .row.justify-content-center.mb-5
-          .col-lg-6.mb-5
+        .row.justify-content-center
+          .col-lg-6.mb-5.alt-1
             .tarjeta.tarjeta-slide.arriba.color-secundario(@mouseover="indicadorTarjetaSlide = false")
               .indicador--hover(v-if="indicadorTarjetaSlide")
               .tarjeta-slide__contenedor
@@ -331,7 +331,7 @@
 
                 .tarjeta-slide__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tema1/img-21.png')})`}")
 
-          .col-lg-6
+          .col-lg-6.alt-1
             .tarjeta.tarjeta-slide.arriba.color-secundario(@mouseover="indicadorTarjetaSlide = false")
               .indicador--hover(v-if="indicadorTarjetaSlide")
               .tarjeta-slide__contenedor
@@ -340,8 +340,8 @@
                   p Define el organigrama como la representación gráfica de la estructura orgánica que refleja, de forma esquemática, la posición de las áreas que integran la empresa, los niveles jerárquicos, las líneas de autoridad y de asesoría.
 
                 .tarjeta-slide__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tema1/img-22.png')})`}")
-        .row.justify-content-center.mb-5
-          .col-lg-6.mb-5
+        .row.justify-content-center
+          .col-lg-6.mb-5.alt-1
 
             .tarjeta.tarjeta-slide.arriba.color-secundario(@mouseover="indicadorTarjetaSlide = false")
               .indicador--hover(v-if="indicadorTarjetaSlide")
@@ -352,7 +352,7 @@
 
                 .tarjeta-slide__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tema1/img-23.png')})`}")
 
-          .col-lg-6
+          .col-lg-6.alt-1
             .tarjeta.tarjeta-slide.arriba.color-secundario(@mouseover="indicadorTarjetaSlide = false")
               .indicador--hover(v-if="indicadorTarjetaSlide")
               .tarjeta-slide__contenedor
@@ -414,7 +414,7 @@
             .row.justify-content-center.align-items-center.mb-5.fnd-4.p-5
               .col-lg-12
                   figure
-                    img(src='@/assets/curso/temas/tema1/img-25.png')  
+                    img(src='@/assets/curso/temas/tema1/img-25-.png')  
 
 
       .row(titulo="Por su finalidad")
@@ -529,7 +529,7 @@
             .row.justify-content-center.align-items-center.mb-5.fnd-4.p-5
               .col-lg-12
                   figure
-                    img(src='@/assets/curso/temas/tema1/img-29.png')  
+                    img(src='@/assets/curso/temas/tema1/img-29-.png')  
     br    
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-10
@@ -582,7 +582,7 @@
           .row.justify-content-center.align-items-center
             .col-lg-2.px-4.mb-3
               figure
-                    img.img-196(src='@/assets/curso/temas/tema1/img-30.png')  
+                    img.img-196(src='@/assets/curso/temas/tema1/img-30.svg')  
             .col-lg-10
               p Es importante saber que, en toda empresa, se asignan roles en el equipo de trabajo y todo depende de las competencias y habilidades técnicas y profesionales con las cuales se identifica cada uno de los candidatos o colaboradores que desempeñarán la labor. Los roles están relacionados con el estatus y el nivel de jerarquía.
 
