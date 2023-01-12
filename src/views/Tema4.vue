@@ -14,7 +14,7 @@
             :style="{'background-image': `url(${require('@/assets/curso/temas/tema4/img-1.png')})`}"
           )
           .bloque-texto-g__texto.p-4
-            p Luego de conocer el diagnóstico empresarial, se hace necesario hablar del <b>talento humano</b>, al que podemos definir como: el proceso que determina las capacidades, habilidades y destrezas que debe tener una persona para ejecutar, de manera eficiente, las actividades en un determinado puesto de trabajo.
+            p Luego de conocer el diagnóstico empresarial, se hace necesario hablar del <b>talento humano</b>, al que se puede definir como: el proceso que determina las capacidades, habilidades y destrezas que debe tener una persona para ejecutar, de manera eficiente, las actividades en un determinado puesto de trabajo.
 
     ul.lista-ul--color.mb-3
       li 
@@ -132,48 +132,19 @@
                 .h5.mb-0 Chiavenato, 2007
     p.mb-5 El salario de un trabajador está compuesto por la remuneración económica, directa o indirecta.
 
-
-
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-10
-        .row.mb-5
-          .col-xl-6.mb-4.mb-xl-0
-            .tarjeta.tarjeta-flip.color-primario(@mouseover="indicadorTarjetaFlip = false")
-              .indicador--hover(v-if="indicadorTarjetaFlip")
-              .tarjeta-flip__contenedor
-                .tarjeta-flip__img
-                  .row.justify-content-center.mb-3.mt-4
-                    .col-8
-                      img.img-150.mb-3(src='@/assets/curso/temas/tema4/img-10.svg' alt='AvatarTop')
-                  h3.text-center Remuneración económica directa
-                  p.text-center.px-4 Es el pago que recibe cada empleado en forma de salarios, bonos, premios y comisiones.
-                .tarjeta-flip__contenido.p-4.p-xl-5.fnd-77
-                  .row.justify-content-center.mb-3.mt-4
-                    .col-8
-                      img.img-150.mb-3(src='@/assets/curso/temas/tema4/img-10.svg' alt='AvatarTop')
-                  h3.text-center.text-white Remuneración económica directa
-                  p.text-center.px-4.text-white Es el pago que recibe cada empleado en forma de salarios, bonos, premios y comisiones.
-
-          .col-xl-6.mb-4.mb-xl-0
-            .tarjeta.tarjeta-flip.color-primario(@mouseover="indicadorTarjetaFlip = false")
-              .indicador--hover(v-if="indicadorTarjetaFlip")
-              .tarjeta-flip__contenedor
-                .tarjeta-flip__img
-                  .row.justify-content-center.mb-3.mt-4
-                    .col-8
-                      img.img-150.mb-3(src='@/assets/curso/temas/tema4/img-11.svg' alt='AvatarTop')
-                  h3.text-center Remuneración económica indirecta
-                  p.text-center.px-4 Es el salario indirecto que se desprende de las cláusulas del contrato colectivo de trabajo y del plan de prestaciones y servicios sociales que ofrece una organización. El salario indirecto incluye vacaciones, gratificaciones, bonos, extras (riesgos, insalubridad, turno nocturno, años de servicio, etc.), participación de utilidades, horas extras, así como el dinero correspondiente a los servicios y prestaciones sociales que ofrece la organización (como subsidios para alimentación y transporte, seguro de vida grupal, etc.).
-
-
-                .tarjeta-flip__contenido.p-4.p-xl-5.fnd-77
-                  .row.justify-content-center.mb-3
-                    .col-8
-                      img.img-150.mb-3(src='@/assets/curso/temas/tema4/img-11.svg' alt='AvatarTop')
-                  h3.text-center.text-white Remuneración económica indirecta
-                  p.text-center.text-white Es el salario indirecto que se desprende de las cláusulas del contrato colectivo de trabajo y del plan de prestaciones y servicios sociales que ofrece una organización. El salario indirecto incluye vacaciones, gratificaciones, bonos, extras (riesgos, insalubridad, turno nocturno, años de servicio, etc.), participación de utilidades, horas extras, así como el dinero correspondiente a los servicios y prestaciones sociales que ofrece la organización (como subsidios para alimentación y transporte, seguro de vida grupal, etc.).
-
-    p.mb-5 Para elaborar una estructura salarial se debe tener en cuenta lo siguiente:
+        .tarjeta-avatar-b
+          .tarjeta-avatar-b__img
+            img.img-a1.img-t1(src='@/assets/curso/temas/tema4/1.svg' alt='')
+          .tarjeta.tarjeta--azul
+            .p-5.ps-3
+              h4 Remuneración económica directa
+              p.mb-5 Es el pago que recibe cada empleado en forma de salarios, bonos, premios y comisiones.
+              h4 Remuneración económica indirecta
+              p.mb-0 Es el salario indirecto que se desprende de las cláusulas del contrato colectivo de trabajo y del plan de prestaciones y servicios sociales que ofrece una organización. El salario indirecto incluye vacaciones, gratificaciones, bonos, extras (riesgos, insalubridad, turno nocturno, años de servicio, etc.), participación de utilidades, horas extras, así como el dinero correspondiente a los servicios y prestaciones sociales que ofrece la organización (como subsidios para alimentación y transporte, seguro de vida grupal, etc.).
+ 
+    p.mb-5 Para elaborar una estructura salarial se debe tener en cuenta:
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-10
@@ -196,28 +167,6 @@
                 li.mb-0 
                   i.fas.fa-check
                   p.mb-0  Construir la tabla de los datos, a través de ajustes cuantitativos, lineales y exponenciales.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 </template>
 

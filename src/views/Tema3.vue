@@ -14,10 +14,10 @@
             :style="{'background-image': `url(${require('@/assets/curso/temas/tema3/img-1.png')})`}"
           )
           .bloque-texto-g__texto.p-4
-            p De manera puntual, se puede decir que:<b> por diagnóstico </b>se entiende el estudio que se realiza antes de planificar un proyecto, y consiste en la recolección, tabulación e interpretación de información de manera organizada, lo que permite la obtención de conclusiones e hipótesis para la toma de decisiones.
+            p Se entiende por <b>diagnóstico</b>, el estudio que se realiza antes de planificar un proyecto y que consiste en la recolección, tabulación e interpretación de información, de manera organizada, que permite la obtención de conclusiones e hipótesis para la toma de decisiones.
               br
               br
-              | Toda organización debe realizar un diagnóstico antes de llevar a cabo cualquier idea, porque es necesario conocer qué requiere el mercado y si se cuenta con la capacidad para satisfacerlo. 
+              | Toda organización debe realizar un diagnóstico antes de llevar a cabo cualquier idea, porque es necesario conocer qué requiere el mercado y si se tiene con la capacidad para satisfacerlo. 
 
 
     .row.justify-content-center.align-items-center.mb-5
@@ -25,7 +25,7 @@
         .cajon.color-acento-contenido.p-4.mb-4.fnd-6.mb-5.blz
           p <b>El diagnóstico administrativo</b> es vital, porque la empresa debe conocer cómo está funcionando en sus diferentes áreas y descubrir causas y efectos de situaciones que se estén presentando, para dar una posible solución y mejorar la productividad.
 
-    p.mb-5 De acuerdo con el aprendizaje sobre qué es el diagnóstico, se evidencian entonces cuáles son los pasos, a seguir, para su correcta ejecución:
+    p.mb-5 Así, en relación con el concepto y aplicación de un diagnóstico, se establecen algunos pasos clave, para su correcta ejecución:
 
 
 

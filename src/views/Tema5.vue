@@ -7,15 +7,9 @@
         span 5
       h1 Manuales: concepto y tipos
 
-    p.mb-5 Para concluir, se hace necesario informarnos sobre los diferentes tipos de manuales que existen en la empresa.
-
-    p.mb-5 Antes de continuar, es importante definir el manual como el documento que sirve de guía para instruir a la persona y manejar, de manera eficiente, el funcionamiento de algo y solucionar problemas cuando se presenten.
+    p.mb-5 En las empresas existen diferentes tipos de manuales. Se trata de aquellos documentos que sirven como guía para la instrucción, capacitación o cualificación del personal. Mediante su conocimiento, estudio y aplicación, se afianzan y efectivizan, cada vez más, las funciones y labores específicas en cada área de la empresa. Además, se favorece la reducción de fallas en la producción y se posibilita la solución oportuna de problemas que se presenten.
 
     p.mb-5 En la empresa existen varios tipos de manuales; para el caso del talento humano, se mencionan algunos:
-
-
-
-
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-10
@@ -70,8 +64,6 @@
 
     p.mb-5 A continuación, conozca algunas de las normas relacionadas con el manual de funciones:
 
-
-
     .row.justify-content-center
       .col-lg-12
         .row.justify-content-center.align-items-center.mb-5
@@ -112,14 +104,7 @@
               figure.mb-3
                 img.img-105(src='@/assets/curso/temas/tema5/img-4.svg')
             .col-lg-10.pp-l
-              p Recuerde explorar los demás recursos que se encuentran disponibles en este componente formativo; para ello, diríjase al menú principal donde encontrará la síntesis, el material complementario, entre otros. Adicional, lo invitamos a desarrollar la actividad didáctica para reforzar los conceptos estudiados.
-
-
-
-
-
-
-
+              p Recuerde explorar los demás recursos que se encuentran disponibles en este componente formativo; para ello, diríjase al menú principal, donde encontrará la síntesis, una actividad didáctica para reforzar los conceptos estudiados, material complementario, entre otros.
 </template>
 
 <script>

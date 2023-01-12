@@ -15,11 +15,7 @@
                 :style="{'background-image': `url(${require('@/assets/curso/temas/img-intro.png')})`}"
               )
               .bloque-texto-g__texto.p-4
-                p Estimado aprendiz, le damos la bienvenida a este componente formativo donde se abordarán temas que le serán de gran ayuda al momento de abordar esta enseñanza; entre los temas que se estudian, se enfatiza en los siguientes: administración, el proceso administrativo y sus etapas, los organigramas, clases y características, áreas funcionales, herramientas, roles y funciones, la planeación estratégica, teniendo en cuenta las herramientas, componentes y metodologías, los tipos de diagnóstico, sus elementos y matrices y el talento humano con su respectivo análisis de cargos y perfiles, estructura salarial y herramientas.
-
-
-  
-        p.mb-5 Este contenido temático es importante porque le aporta las bases para establecer una empresa y realizar, eficientemente, una gestión administrativa y de recurso humano.
+                p Estimado aprendiz, le damos la bienvenida a este componente formativo donde se abordarán temas que le serán de gran ayuda al momento de abordar este proceso de aprendizaje. Entre los temas que se estudian, se enfatiza en los siguientes: administración, el proceso administrativo y sus etapas, los organigramas, clases y características, áreas funcionales, herramientas, roles y funciones, la planeación estratégica, teniendo en cuenta las herramientas, componentes y metodologías, los tipos de diagnóstico, sus elementos y matrices y el talento humano con su respectivo análisis de cargos y perfiles, estructura salarial y herramientas.
 
         p.mb-5 En el siguiente video conocerá, de forma general, la temática que se estudiará a lo largo del componente formativo.
     

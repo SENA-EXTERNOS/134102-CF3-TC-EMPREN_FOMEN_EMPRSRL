@@ -2,7 +2,7 @@ export default {
   global: {
     componenteFormativo: 'Estructura organizacional y plan estratégico',
     descripcionCurso:
-      'En este componente formativo, se desarrollarán temas que permitirán a los emprendedores apropiarse de conocimientos claros y concisos para realizar una buena gestión administrativa y de talento humano en las unidades productivas formalizadas. Los temas a tratar son: administración, proceso administrativo, organigrama, planeación estratégica, herramientas, diagnóstico, matrices, talento humano, análisis de cargo y perfiles, estructura salarial, herramientas, manuales y funciones.',
+      'Este componente formativo desarrolla temas que permiten a los emprendedores apropiarse de conocimientos claros y concisos para realizar una buena gestión administrativa y de talento humano en las unidades productivas formalizadas: administración, proceso administrativo, organigrama, planeación estratégica, herramientas, diagnóstico, matrices, talento humano, análisis de cargo y perfiles, estructura salarial, herramientas, manuales y funciones.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal-.png'),
     imagenesDecorativasBanner: [
@@ -37,19 +37,19 @@ export default {
         nombreRuta: 'tema1',
         icono: 'far fa-file-alt',
         numero: '1',
-        titulo: 'Administración',
+        titulo: 'La administración',
         desarrolloContenidos: true,
         subMenu: [
           {
             icono: 'far fa-file-alt',
             numero: '1.1',
-            titulo: 'Proceso administrativo y sus etapas',
+            titulo: 'El proceso administrativo y sus etapas',
             hash: 't_1_1',
           },
           {
             icono: 'far fa-file-alt',
             numero: '1.2',
-            titulo: 'Organigrama',
+            titulo: 'Organigramas',
             hash: 't_1_2',
           },
           {
@@ -132,9 +132,9 @@ export default {
   },
   complementario: [
     {
-      tema: 'Organigrama',
+      tema: 'Organigramas',
       referencia:
-        'Universidad Tecnológica de Chile - Inacap. (2018).<em> Guía de aprendizaje -  Áreas funcionales de la empresa.</em> http://www.inacap.cl/web/material-apoyo-cedem/alumno/Administracion/<br>Administracion/ADSP01_U2_GA.pdf',
+        'Universidad Tecnológica de Chile - Inacap. (2018). <i>Guía de aprendizaje -  Áreas funcionales de la empresa.</i> ',
       tipo: 'PDF',
       link:
         'http://www.inacap.cl/web/material-apoyo-cedem/alumno/Administracion/Administracion/ADSP01_U2_GA.pdf',
@@ -142,14 +142,14 @@ export default {
     {
       tema: 'Procesos: componentes y metodología',
       referencia:
-        'Valdés Hernández, L. A. (s.f.).<em> Manual para la Diagramación de procesos.</em> http://docencia.fca.unam.mx/~lvaldes/cal_pdf/cal18.pdf ',
+        'Valdés Hernández, L. A. (s.f.). <i>Manual para la Diagramación de procesos</i>. ',
       tipo: 'PDF',
       link: 'http://docencia.fca.unam.mx/~lvaldes/cal_pdf/cal18.pdf',
     },
     {
       tema: 'Manuales: concepto y tipos',
       referencia:
-        'MARLAN – El centro de educación en Internet. (2017). <em>Manual de Funciones</em> (video). YouTube. https://www.youtube.com/watch?<br>v=uiyLYSIHd2w&ab_channel=MARLAN%<br>7CElcentrodeeducaci%C3%B3nenInternet',
+        'MARLAN – El centro de educación en Internet. (2017). <i>Manual de Funciones</i> ',
       tipo: 'Video',
       link:
         'https://www.youtube.com/watch?v=uiyLYSIHd2w&ab_channel=MARLAN%7CElcentrodeeducaci%C3%B3nenInternet',
@@ -157,7 +157,7 @@ export default {
     {
       tema: 'Manuales: concepto y tipos',
       referencia:
-        '<em>Departamento Administrativo de la Función Pública.</em> (2015). Guía para establecer o modificar el <br>Manual de Funciones y de Competencias Laborales. https://www.funcionpublica.gov.co<br>/eva/admon/files/empresas/ZW1wcmVz<br>YV83Ng==/imgproductos/<br>1450054176_fd5a8e656d4625258b5ad43233c798bb.pdf',
+        'Departamento Administrativo de la Función Pública. (2015). <i>Guía para establecer o modificar el Manual de Funciones y de Competencias Laborales.</i> ',
       tipo: 'PDF',
       link:
         'https://www.funcionpublica.gov.co/eva/admon/files/empresas/ZW1wcmVzYV83Ng==/imgproductos/1450054176_fd5a8e656d4625258b5ad43233c798bb.pdf',
@@ -223,38 +223,37 @@ export default {
     },
     {
       referencia:
-        'Chiavenato, I. (2007). Introducción a la teoría general de la administración. McGraw-Hill. ',
+        'Chiavenato, I. (2007). <i>Introducción a la teoría general de la administración</i>. McGraw-Hill.',
       link:
         'https://www.academia.edu/33546085/Introducci%C3%B3n_a_la_teor%C3%ADa_general_de_la_administraci%C3%B3n_7ma_edici%C3%B3n_idalberto_chiavenato',
     },
     {
       referencia:
-        'Chiavenato, I. (2011). Administración de recursos humanos. El capital humano de las organizaciones. McGraw-Hill.',
+        'Chiavenato, I. (2011). <i>Administración de recursos humanos. El capital humano de las organizaciones</i>. McGraw-Hill.',
       link:
         'https://www.sijufor.org/uploads/1/2/0/5/120589378/administracion_de_recursos_humanos_-_chiavenato.pdf ',
     },
     {
       referencia:
-        'De Zuani, E. (2019). Introducción a la administración de organizaciones. Hanne. ',
+        'De Zuani, E. (2019). <i>Introducción a la administración de organizaciones</i>. Hanne.',
       link:
         'https://www.academia.edu/43994894/DE_ZUANI_INTR_A_LA_ADMIN_DE_ORGANIZACIONES',
     },
     {
       referencia:
-        'Franklin, E. (2009). Organización de Empresas. McGraw-Hill. ',
+        'Franklin, E. (2009). <i>Organización de Empresas</i>. McGraw-Hill.',
       link:
         'https://naghelsy.files.wordpress.com/2016/01/enrique-franklin-organizacion-de-empresas.pdf',
     },
     {
       referencia:
-        'Manjarrés, Colina, L. A. (2016). Manual de funciones y estructuración del organigrama del área financiera de la E.S.E Hospital San Cristóbal de Ciénaga (Tesis de grado, Universidad Cooperativa de Colombia, Santa Marta). Repositorio UCC. ',
+        'Manjarrés, Colina, L. A. (2016).<i> Manual de funciones y estructuración del organigrama del área financiera de la E.S.E Hospital San Cristóbal de Ciénaga</i> (Tesis de grado, Universidad Cooperativa de Colombia, Santa Marta). Repositorio UCC.',
       link:
         'https://repository.ucc.edu.co/bitstream/20.500.12494/12412/1/2016_manual_funciones_estructuraci%C3%B3n.pdf',
     },
     {
       referencia:
-        'Münch Galindo, L., & García Martínez, J. (1990). Fundamentos de administración. Editorial Trillas.',
-      link: '',
+        'Münch Galindo, L., & García Martínez, J. (1990). <i>Fundamentos de administración</i>. Editorial Trillas.',
     },
   ],
   creditos: {

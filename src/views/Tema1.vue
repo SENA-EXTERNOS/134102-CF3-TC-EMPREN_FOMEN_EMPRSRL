@@ -5,22 +5,13 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 1
-      h1 Administración
+      h1 La administración
 
     p.mb-5 Para comenzar, debemos tener presente, el origen y definición etimológica de la palabra “administración”, la cual viene del latín <em>administratio;</em> se forma del prefijo “ad”, hacia, y de<em> “ministratio”.</em> Esta última palabra viene a su vez de <em>“minister”,</em> vocablo compuesto de <em>“minus”,</em> comparativo de inferioridad, y del sufijo <em>“ter”, </em>que sirve como término de comparación; entonces,<em> “magister” </em>(magistrado), indica una función de preeminencia o autoridad –el que ordena o dirige a otros en una función–;<em> “minister”</em> expresa precisamente lo contrario: subordinación u obediencia; el que realiza una función bajo el mando de otro; el que presta un servicio a otro. 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-10
         .cajon.color-secundario.p-4.mb-4.fnd-7
           p En conclusión, se puede decir que la administración se refiere a una función que se desarrolla bajo el mando de otro, de un servicio que se presta. Por consiguiente, servicio y subordinación, son los elementos principales obtenidos. 
-
-
-
-
-
-
-
-
-
 
     p.mb-5 A continuación, se alude a conceptos sobre administración, definidos por algunos autores contemporáneos:
 
@@ -32,14 +23,14 @@
           .col-lg-6
             figure
               img(src='@/assets/curso/temas/tema1/img-1.png')               
-      .tarjeta.tarjeta--azul2.p-4(titulo="Harold Koontz y Heinz Weihrich")
+      .tarjeta.tarjeta--azul2.p-4(titulo="Harold Koontz<br> y Heinz Weihrich")
         .row.justify-content-center.align-items-center.mb-5
           .col-lg-6
-            p Puntualizan que la administración es el proceso de diseñar y mantener un ambiente en el que las personas, trabajando en grupos alcanzan, con eficiencia, las metas seleccionadas. 
+            p Puntualizan que la la administración es el proceso de diseñar y mantener un ambiente en el que las personas, trabajando en grupos, alcanzan con eficiencia las metas seleccionadas.
           .col-lg-6
             figure
               img(src='@/assets/curso/temas/tema1/img-2.png')   
-      .tarjeta.tarjeta--azul2.p-4(titulo="James Stoner y Edward Freeman")
+      .tarjeta.tarjeta--azul2.p-4(titulo="James Stoner<br> y Edward Freeman")
         .row.justify-content-center.align-items-center.mb-5
           .col-lg-6
             p Afirman que la administración es el proceso de planear, organizar, liderar y controlar el trabajo de los integrantes de una empresa u organización, además de utilizar la totalidad de los recursos organizacionales, para alcanzar las metas establecidas.
@@ -51,7 +42,7 @@
       .col-lg-8
         .cajon.color-primario.p-4.mb-4.fnd-1
 
-          p Con base en los anteriores puntos de vista, no hay una definición verdadera de administración, porque se aplica de manera universal, donde cada uno la desarrolla de acuerdo con sus necesidades. Es importante, para continuar, conocer sobre los precedentes.
+          p Con base en los anteriores puntos de vista, no hay una definición única de administración, porque se aplica de manera universal, donde cada uno la desarrolla de acuerdo con sus necesidades
         
 
     ul.lista-ul--color.mb-3
@@ -96,7 +87,7 @@
             figure
               img.img-81(src='@/assets/curso/temas/tema1/img-8.png')              
           .col-md-6
-            p Esta época se caracterizó por el surgimiento de diversos inventos y descubrimientos como la máquina de vapor, lo que impulsó el desarrollo industrial y originó grandes cambios en la organización
+            p Esta época se caracterizó por el surgimiento de diversos inventos y descubrimientos como la máquina de vapor, lo que impulsó el desarrollo industrial y originó grandes cambios en la organización. 
         .row.px-5(titulo="Administración del siglo XX")
           .col-md-6.mb-4.mb-md-0
             figure
@@ -106,10 +97,10 @@
 
     separador
     #t_1_1.titulo-segundo.color-acento-contenido
-      h2 1.1 Proceso administrativo y sus etapas
+      h2 1.1 El proceso administrativo y sus etapas
 
-    p.mb-5 Se entiende como proceso, el conjunto de etapas consecutivas de un fenómeno natural o de una operación de carácter artificial. Se puede decir que, el proceso administrativo es el conjunto de etapas que se deben tener en cuenta en la administración, las cuales deben estar unidas y ocurriendo simultáneamente, para lograr los objetivos propuestos.
-    p.mb-5 Conozcamos las etapas del proceso administrativo según algunos reconocidos autores:
+    p.mb-5 Se entiende como proceso, el conjunto de etapas consecutivas de un fenómeno natural o de una operación de carácter artificial. Se puede decir que el proceso administrativo es el conjunto de etapas que se deben tener en cuenta en la administración, las cuales deben estar unidas y ocurriendo simultáneamente, para lograr los objetivos propuestos.
+    p.mb-5 Conozca las etapas del proceso administrativo, según algunos reconocidos autores:
 
 
     TabsC.color-acento-contenido.mb-5
@@ -181,7 +172,7 @@
                 p.mb-2 Dirección.
               li.mb-0.black
                 i.fas.fa-greater-than.black
-                p.mb-2 Coordinación..fnd-f1
+                p.mb-2 Coordinación.
               li.mb-0.black
                 i.fas.fa-greater-than.black
                 p.mb-2 Control.
@@ -215,8 +206,7 @@
             figure
               img(src='@/assets/curso/temas/tema1/img-13.png')  
 
-    p.mb-5 Unificando los criterios anteriores, podemos decir que las etapas del proceso administrativo son cuatro.
-    p.mb-5 Ampliemos la información sobre cada una de ellas.
+    p.mb-5 Unificando los criterios anteriores, se puede afirmar que las grandes etapas del proceso administrativo son:
 
     .row.justify-content-center.align-items-center.mb-5.fnd-1.p-5
       .h2.text-center.mb-5 Etapas del proceso administrativo
@@ -242,7 +232,7 @@
                       p.mb-0  Recursos y actividades para alcanzar   los objetivos.
                     li.mb-0 
                       i.fas.fa-check
-                      p.mb-0  Órganos y cargos
+                      p.mb-0  Órganos y cargos.
                 .col-lg-6                
                   ul.lista-ul--color.mb-3
                     li.mb-0 
@@ -254,20 +244,13 @@
             img(src="@/assets/curso/temas/tema1/img-16.png", alt="alt")          
           .crd_03__txt
             h3 Dirección
-            p En esta etapa, conocemos cómo se debe hacer. Se designan cargos, se toman decisiones, existe una  dirección, delegación y supervisión,    para lograr los objetivos. Se motiva al personal, hay liderazgo y comunicación. 
+            p En esta etapa se establece el “cómo se debe hacer”. Se designan cargos, se toman decisiones, existe una  dirección, delegación y supervisión,    para lograr los objetivos. Se motiva al personal, hay liderazgo y comunicación. 
         .crd_03.crd_03-
           .crd_03__icon.dan
             img(src="@/assets/curso/temas/tema1/img-17.png", alt="alt")          
           .crd_03__txt
             h3 Control
-            p La vigilancia es vital en esta etapa, por lo  que se determina: ¿cómo se hizo? Se realizan evaluaciones, comparaciones, correcciones de fallas para garantizar que se realice la planeación y la retroalimentación y se definen    estándares para medir el desempeño.                      
-
-
-
-
-
-      
-
+            p La vigilancia es vital en esta etapa, por lo  que se determina: ¿cómo se hizo? Se realizan evaluaciones, comparaciones, correcciones de fallas para garantizar que se realice la planeación y la retroalimentación y se definen    estándares para medir el desempeño.   
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-10
@@ -287,13 +270,11 @@
                 p.mb-0 
                   b 2. Fase dinámica: 
                   | hace referencia al movimiento, es la que define cómo manejar la organización y la conforman el control, la dirección y la integración.  
-
+    p.mb-5 El siguiente esquema le muestra las fases del proceso administrativo, la cuales son de vital importancia para el éxito de los procesos y la efectividad de las acciones desarrolladas: 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-8
         .titulo-sexto.color-acento-contenido(data-aos='fade-right')
-          h5 Figura 1
-          p.mb-0
-            em Fases del proceso administrativo 
+          p.mb-0 #[b Figura 1.] #[i Fases del proceso administrativo] 
       .col-lg-8.fnd-5.p-5
           figure
             img(src='@/assets/curso/temas/tema1/img-19.svg')  
@@ -302,7 +283,7 @@
 
     separador
     #t_1_2.titulo-segundo.color-acento-contenido
-      h2 1.2 Organigrama
+      h2 1.2 Organigramas
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-10
         .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5.mb-5.fnd-f1
@@ -315,11 +296,10 @@
             br
             p Además, se deben tener en cuenta los cargos y los niveles jerárquicos y de responsabilidad dentro de la organización para obtener, como resultado, el cumplimiento de los objetivos propuestos.
 
-    p A continuación, se ampliará la definición de organigrama, según reconocidos autores:
-
+    p.mb-5 A continuación, se ampliará la definición de organigrama, según reconocidos autores:
 
     .row.justify-content-center.mb-5
-      .col-lg-8
+      .col-lg-10.col-md-12
         .row.justify-content-center
           .col-lg-6.mb-5.alt-1
             .tarjeta.tarjeta-slide.arriba.color-secundario(@mouseover="indicadorTarjetaSlide = false")
@@ -331,7 +311,7 @@
 
                 .tarjeta-slide__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tema1/img-21.png')})`}")
 
-          .col-lg-6.alt-1
+          .col-lg-6.mb-5.alt-1
             .tarjeta.tarjeta-slide.arriba.color-secundario(@mouseover="indicadorTarjetaSlide = false")
               .indicador--hover(v-if="indicadorTarjetaSlide")
               .tarjeta-slide__contenedor
@@ -352,7 +332,7 @@
 
                 .tarjeta-slide__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tema1/img-23.png')})`}")
 
-          .col-lg-6.alt-1
+          .col-lg-6.mb-5.alt-1
             .tarjeta.tarjeta-slide.arriba.color-secundario(@mouseover="indicadorTarjetaSlide = false")
               .indicador--hover(v-if="indicadorTarjetaSlide")
               .tarjeta-slide__contenedor
@@ -392,7 +372,7 @@
                   .lista-ol--cuadro__vineta
                     span 5
                   | Por su presentación o disposición gráfica.
-    p.mb-5 A continuación, se profundiza en estos conceptos:
+    p.mb-5 A continuación, se profundiza en tales clasificaciones:
 
     AcordionA(tipo="a" clase-tarjeta="tarjeta t-pur2 mb-5")
       .row(titulo="Por su naturaleza")
@@ -400,13 +380,13 @@
             p.pp-l Se dividen en tres grupos:
             p.pp-l 
               ul.lista-ul--color.mb-3
-                  li.mb-0 
+                  li
                     i.fas.fa-check
                     p.mb-0  Micro administrativos: son los que corresponden a una sola organización.
-                  li.mb-0 
+                  li
                     i.fas.fa-check
                     p.mb-0 Macro administrativos: involucran a más de una organización.
-                  li.mb-0 
+                  li
                     i.fas.fa-check
                     p.mb-0 Meso administrativos: consideran una o más organizaciones del mismo sector de actividad o rama específica.
 
@@ -414,7 +394,7 @@
             .row.justify-content-center.align-items-center.mb-5.fnd-4.p-5
               .col-lg-12
                   figure
-                    img(src='@/assets/curso/temas/tema1/img-25-.png')  
+                    img(src='@/assets/curso/temas/tema1/1.png')  
 
 
       .row(titulo="Por su finalidad")
@@ -446,7 +426,7 @@
             .row.justify-content-center.align-items-center.mb-5.fnd-4.p-5
               .col-lg-12
                   figure
-                    img(src='@/assets/curso/temas/tema1/img-26.png')  
+                    img(src='@/assets/curso/temas/tema1/2.png')  
       .row(titulo="Por su ámbito")
           .col-lg-7
             p.pp-l Se dividen en dos tipos:
@@ -467,7 +447,7 @@
             .row.justify-content-center.align-items-center.mb-5.fnd-4.p-5
               .col-lg-12
                   figure
-                    img(src='@/assets/curso/temas/tema1/img-27.png')  
+                    img(src='@/assets/curso/temas/tema1/3.png')  
       .row(titulo="Por su contenido")
           .col-lg-7
             p.pp-l Se dividen en tres tipos:
@@ -493,7 +473,7 @@
             .row.justify-content-center.align-items-center.mb-5.fnd-4.p-5
               .col-lg-12
                   figure
-                    img(src='@/assets/curso/temas/tema1/img-28.png')  
+                    img(src='@/assets/curso/temas/tema1/4.png')  
       .row(titulo="Por su presentación o disposición gráfica")
           .col-lg-7.pr-5
             p.pp-l Se dividen en cinco tipos:
@@ -529,7 +509,7 @@
             .row.justify-content-center.align-items-center.mb-5.fnd-4.p-5
               .col-lg-12
                   figure
-                    img(src='@/assets/curso/temas/tema1/img-29-.png')  
+                    img(src='@/assets/curso/temas/tema1/5.png')  
     br    
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-10
@@ -663,14 +643,12 @@
         | 
         h3.text-black Diagramas
 
-    p.mb-5 La diagramación es la herramienta que permite representar gráficamente los procesos de una empresa, observando las actividades, sus relaciones y cualquier inconsistencia que pueda presentarse. Además, facilita la coordinación y la comunicación dentro de un equipo, el análisis de procesos a mejorar, y el seguimiento del progreso.
-        
-
+    p.mb-5 La diagramación es la herramienta que permite representar, gráficamente, los procesos de una empresa, observando las actividades, sus relaciones y cualquier inconsistencia que pueda presentarse. Además, facilita la coordinación y la comunicación dentro de un equipo, el análisis de procesos a mejorar y el seguimiento del progreso.
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-10
         .cajon.color-acento-contenido.p-4.mb-4.fnd-6.mb-5.blz
-          p Es esencial estandarizar la realización de los diagramas, con el objetivo que todos puedan captar la misma información y que igualen las interpretaciones. Los diagramas que son más útiles, contienen palabras, frases y pueden ser comprensibles por cualquier persona.
+          p Es esencial estandarizar la realización de los diagramas, con el objetivo que todos puedan captar la misma información y que igualen las interpretaciones. Los diagramas que son más útiles contienen palabras, frases y pueden ser comprensibles por cualquier persona.
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-10
           .row.justify-content-center.align-items-between.mb-5.fnd-9.p-5
@@ -699,7 +677,7 @@
 
 
     TabsA.color-acento-contenido.mb-5
-      .tarjeta.tarjeta--azul2.p-4(titulo="El círculo, elipse o rectángulo")
+      .tarjeta.tarjeta--azul2.p-4(titulo="El círculo,<br> elipse o rectángulo")
         .row.justify-content-center.align-items-center.mb-5
           .col-lg-6
             p Con los bordes redondeados, indican el inicio y final del proceso.
@@ -734,7 +712,7 @@
           .col-lg-6
             figure
               img(src='@/assets/curso/temas/tema1/img-38.svg') 
-      .tarjeta.tarjeta--azul2.p-4(titulo="Rectángulo con base ondulada")
+      .tarjeta.tarjeta--azul2.p-4(titulo="Rectángulo con<br> base ondulada")
         .row.justify-content-center.align-items-center.mb-5
           .col-lg-6
             p Se utiliza para indicar el documento.
@@ -743,8 +721,8 @@
               img(src='@/assets/curso/temas/tema1/img-39.svg')                             
 
 
-    p.mb-5 Teniendo claros los símbolos a utilizar en la elaboración de un diagrama de flujo, estudiemos los pasos que se deben seguir.
-    p.mb-5 Los pasos para la elaboración de un diagrama de flujo son:
+    p.mb-5 Teniendo claros los símbolos a utilizar en la elaboración de un diagrama de flujo, conozca los pasos que se deben seguir.
+    p.mb-5 Pasos para la elaboración de un diagrama de flujo:
 
     PasosA.color-acento-contenido.mb-5(tipo="n")
       .row(titulo="")
@@ -784,8 +762,6 @@
               img.img-133(src='@/assets/curso/temas/tema1/img-44.svg')    
 
     br
-    
-
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-10
         .bloque-texto-a.color-primario.p-4.p-md-5.mb-5.fnd-f.fnd-3
@@ -820,8 +796,6 @@
                         li.mb-0 
                           i.fas.fa-check
                           p.mb-0  <em>ThinkComposer</em>
-
-
 </template>
 
 <script>
