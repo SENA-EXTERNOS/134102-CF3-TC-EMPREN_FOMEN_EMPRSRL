@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="230" viewBox="0 0 400 230">
+  <g id="Grupo_134909" data-name="Grupo 134909" transform="translate(13189.5 -904.599)">
+    <g id="Grupo_134818" data-name="Grupo 134818" transform="translate(-672.05 -937.579)">
+      <rect id="Rectángulo_44200" data-name="Rectángulo 44200" width="400" height="230" rx="21" transform="translate(-12517.449 1842.178)" fill="#4e2e8e"/>
+      <g id="Elipse_18324" data-name="Elipse 18324" transform="translate(-12476.449 1956.977)" fill="#fff" stroke="#ffef0f" stroke-width="2">
+        <circle cx="46" cy="46" r="46" stroke="none"/>
+        <circle cx="46" cy="46" r="45" fill="none"/>
+      </g>
+      <g id="Elipse_18325" data-name="Elipse 18325" transform="translate(-12391.449 1861.977)" fill="#fff" stroke="#ffef0f" stroke-width="2">
+        <ellipse cx="63.5" cy="39" rx="63.5" ry="39" stroke="none"/>
+        <ellipse cx="63.5" cy="39" rx="62.5" ry="38" fill="none"/>
+      </g>
+      <g id="Rectángulo_44201" data-name="Rectángulo 44201" transform="translate(-12330.449 1956.977)" fill="#fff" stroke="#ffef0f" stroke-width="2">
+        <rect width="181" height="82" rx="41" stroke="none"/>
+        <rect x="1" y="1" width="179" height="80" rx="40" fill="none"/>
+      </g>
+    </g>
+  </g>
+</svg>

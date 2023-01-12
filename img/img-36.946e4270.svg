@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="230" viewBox="0 0 400 230">
+  <g id="Grupo_134911" data-name="Grupo 134911" transform="translate(13194.551 -1547.799)">
+    <rect id="Rectángulo_44145" data-name="Rectángulo 44145" width="400" height="230" rx="21" transform="translate(-13194.551 1547.799)" fill="#4e2e8e"/>
+    <g id="Polígono_5" data-name="Polígono 5" transform="translate(-13070 1585.599)" fill="#fff">
+      <path d="M 69.5 153.5021820068359 L 1.343202352523804 77.5 L 69.5 1.497815489768982 L 137.6567993164062 77.5 L 69.5 153.5021820068359 Z" stroke="none"/>
+      <path d="M 69.5 2.995635986328125 L 2.686416625976562 77.5 L 69.5 152.0043640136719 L 136.3135833740234 77.5 L 69.5 2.995635986328125 M 69.5 0 L 139 77.5 L 69.5 155 L 0 77.5 L 69.5 0 Z" stroke="none" fill="#ffef0f"/>
+    </g>
+  </g>
+</svg>

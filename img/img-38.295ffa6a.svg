@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="400" height="230" viewBox="0 0 400 230">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="308.511" height="165.026" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Grupo_134913" data-name="Grupo 134913" transform="translate(13194.551 -2153.799)">
+    <rect id="Rectángulo_44145" data-name="Rectángulo 44145" width="400" height="230" rx="21" transform="translate(-13194.551 2153.799)" fill="#4e2e8e"/>
+    <g id="Cuadrícula_de_repetición_3" data-name="Cuadrícula de repetición 3" transform="translate(-13148.807 2177.621)" clip-path="url(#clip-path)">
+      <g transform="translate(13149.748 -2127.621)">
+        <g id="Trazado_193323" data-name="Trazado 193323" transform="matrix(0.656, 0.755, -0.755, 0.656, -12951.748, 2107.033)" fill="#fff">
+          <path d="M 14.90978050231934 218.7251892089844 L -30.12480163574219 116.1294479370117 L 91.48903656005859 -23.77123260498047 L 137.8223266601562 77.33050537109375 L 14.90978050231934 218.7251892089844 Z" stroke="none"/>
+          <path d="M 91.22616577148438 -21.94459533691406 L -28.95454406738281 116.3074951171875 L 15.19087982177734 216.8775634765625 L 136.6446075439453 77.16100311279297 L 91.22616577148438 -21.94459533691406 M 91.75192260742188 -25.59794616699219 L 138.9999847412109 77.49999237060547 L 14.62871551513672 220.5727996826172 L -31.2950439453125 115.9513931274414 L 91.75192260742188 -25.59794616699219 Z" stroke="none" fill="#ffef0f"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
