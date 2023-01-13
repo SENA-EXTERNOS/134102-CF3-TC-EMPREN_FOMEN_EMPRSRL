@@ -17,7 +17,7 @@
             p La planeación es el proceso de diseño, articulación de acciones y verificación de recursos, necesarios para la operación de planes y programas de trabajo que conducen a la obtención de resultados en un periodo determinado.
             br
             br
-            p Entonces, se puede deducir que la planeación estratégica sirve para determinar: <b>quién es</b> (misión), <b>a dónde</b> se quiere llegar (visión) y <b>qué se debe hacer</b> para lograrlo (estrategias), con la finalidad de impulsar el crecimiento de la organización a corto, mediano y largo plazo.
+            p Entonces, se puede deducir que la planeación estratégica sirve para determinar: <b>quién es</b> (misión), <b>a donde</b> se quiere llegar (visión) y <b>qué se debe hacer</b> para lograrlo (estrategias), con la finalidad de impulsar el crecimiento de la organización a corto, mediano y largo plazo.
 
     p.mb-5 La planeación estratégica está conformada por cuatro principales componentes:  
 
