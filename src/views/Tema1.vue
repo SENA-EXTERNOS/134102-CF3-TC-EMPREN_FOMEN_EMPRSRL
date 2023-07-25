@@ -643,7 +643,7 @@
         | 
         h3.text-black Diagramas
 
-    p.mb-5 La diagramación es la herramienta que permite representar, gráficamente, los procesos de una empresa, observando las actividades, sus relaciones y cualquier inconsistencia que pueda presentarse. Además, facilita la coordinación y la comunicación dentro de un equipo, el análisis de procesos a mejorar y el seguimiento del progreso.
+    p.mb-5 La diagramación es la herramienta que permite representar gráficamente, los procesos de una empresa, observando las actividades, sus relaciones y cualquier inconsistencia que pueda presentarse. Además, facilita la coordinación y la comunicación dentro de un equipo, el análisis de procesos a mejorar y el seguimiento del progreso.
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-10
@@ -742,7 +742,7 @@
       .row(titulo="")
         .col-md-9.mb-4.mb-md-0
           h4 Organizar las tareas por tipo y simbología
-          p Una vez definidas las tareas escritas y organizadas cronológicamente, se les deben asignar los símbolos que corresponden y elaborar, entonces, el flujograma.
+          p Una vez definidas las tareas escritas y organizadas cronológicamente, se les deben asignar los símbolos que corresponden y elaborar entonces el flujograma.
         .col-md-3
           figure
               img.img-133(src='@/assets/curso/temas/tema1/img-42.svg')    

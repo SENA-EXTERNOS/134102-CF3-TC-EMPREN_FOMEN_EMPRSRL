@@ -57,7 +57,7 @@
                   h3.mb-1 Guía para establecer o modificar el Manual de Funciones y de Competencias Laborales
                   p.text-small Para ampliar la información, lo invitamos a leer la<b> Guía para establecer o modificar el Manual de Funciones y de Competencias Laborales,</b> la cual se encuentra en el material complementario.
                 .col-sm-auto
-                  a.boton.color-acento-botones(:href="('https://www.funcionpublica.gov.co/eva/admon/files/empresas/ZW1wcmVzYV83Ng==/imgproductos/1450054176_fd5a8e656d4625258b5ad43233c798bb.pdf')" target="_blank")
+                  a.boton.color-acento-botones(:href="('https://www.funcionpublica.gov.co/documents/418548/34150781/Gu%C3%ADa+para+establecer+o+modificar+el+manual+de+funciones+y+de+competencias+laborales+-+Versi%C3%B3n+2+-+Abril+2018.pdf/caa81178-376a-e0f2-2dfa-e859a8824538?t=1531756428307')" target="_blank")
                     span Descargar
                     i.fas.fa-file-download          
 

@@ -17,7 +17,7 @@
             p Se entiende por <b>diagnóstico</b>, el estudio que se realiza antes de planificar un proyecto y que consiste en la recolección, tabulación e interpretación de información, de manera organizada, que permite la obtención de conclusiones e hipótesis para la toma de decisiones.
               br
               br
-              | Toda organización debe realizar un diagnóstico antes de llevar a cabo cualquier idea, porque es necesario conocer qué requiere el mercado y si se tiene con la capacidad para satisfacerlo. 
+              | Toda organización debe realizar un diagnóstico antes de llevar a cabo cualquier idea, porque es necesario conocer qué requiere el mercado y si se tiene la capacidad para satisfacerlo. 
 
 
     .row.justify-content-center.align-items-center.mb-5
