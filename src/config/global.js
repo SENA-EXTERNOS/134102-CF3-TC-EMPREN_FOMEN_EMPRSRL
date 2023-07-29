@@ -225,7 +225,7 @@ export default {
       referencia:
         'Chiavenato, I. (2007). <i>Introducción a la teoría general de la administración</i>. McGraw-Hill.',
       link:
-        'https://www.academia.edu/33546085/Introducci%C3%B3n_a_la_teor%C3%ADa_general_de_la_administraci%C3%B3n_7ma_edici%C3%B3n_idalberto_chiavenato',
+        'https://frrq.cvg.utn.edu.ar/pluginfile.php/15525/mod_resource/content/0/Chiavenato%20Idalverto.%20Introducci%C3%B3n%20a%20la%20teor%C3%ADa%20general%20de%20la%20Administraci%C3%B3n.pdf',
     },
     {
       referencia:
