@@ -249,11 +249,13 @@ export default {
       referencia:
         'Manjarrés, Colina, L. A. (2016).<i> Manual de funciones y estructuración del organigrama del área financiera de la E.S.E Hospital San Cristóbal de Ciénaga</i> (Tesis de grado, Universidad Cooperativa de Colombia, Santa Marta). Repositorio UCC.',
       link:
-        'https://repository.ucc.edu.co/bitstream/20.500.12494/12412/1/2016_manual_funciones_estructuraci%C3%B3n.pdf',
+        'https://repository.ucc.edu.co/bitstream/20.500.12494/12412/1/2https://repository.ucc.edu.co/server/api/core/bitstreams/42a95b77-df7f-4061-a67c-dc2cbee0762b/content',
     },
     {
       referencia:
         'Münch Galindo, L., & García Martínez, J. (1990). <i>Fundamentos de administración</i>. Editorial Trillas.',
+      link:
+        'https://admoncbtis52.files.wordpress.com/2019/02/fundamentos-de-administracion-munch-galindo.pdf',
     },
   ],
   creditos: {
