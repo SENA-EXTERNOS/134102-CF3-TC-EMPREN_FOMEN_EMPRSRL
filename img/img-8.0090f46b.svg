@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240.885" height="108.056" viewBox="0 0 240.885 108.056">
+  <g id="Grupo_134948" data-name="Grupo 134948" transform="translate(4550.818 565.161)">
+    <g id="Grupo_134646" data-name="Grupo 134646" transform="translate(-5588.933 -3735.227)">
+      <g id="Polígono_6" data-name="Polígono 6" transform="translate(1279 3187) rotate(90)" fill="none" stroke-linecap="round">
+        <path d="M41,0,82,45H0Z" stroke="none"/>
+        <path d="M 41 5.939208984375 L 9.05572509765625 41 L 72.94427490234375 41 L 41 5.939208984375 M 41 0 L 82 45 L 0 45 L 41 0 Z" stroke="none" fill="#4e2e8e"/>
+      </g>
+      <line id="Línea_463" data-name="Línea 463" x1="195.669" transform="translate(1040.115 3225.043)" fill="none" stroke="#4e2e8e" stroke-linecap="round" stroke-width="4"/>
+      <line id="Línea_464" data-name="Línea 464" x2="25.185" y2="52.308" transform="translate(1113.733 3172.735)" fill="none" stroke="#4e2e8e" stroke-linecap="round" stroke-width="4"/>
+      <line id="Línea_465" data-name="Línea 465" x2="29.06" y2="50.37" transform="translate(1181.539 3174.673)" fill="none" stroke="#4e2e8e" stroke-linecap="round" stroke-width="4"/>
+      <line id="Línea_466" data-name="Línea 466" y1="44.558" x2="29.06" transform="translate(1067.237 3225.043)" fill="none" stroke="#4e2e8e" stroke-linecap="round" stroke-width="4"/>
+      <line id="Línea_467" data-name="Línea 467" y1="50.37" x2="27.122" transform="translate(1164.103 3225.043)" fill="none" stroke="#4e2e8e" stroke-linecap="round" stroke-width="4"/>
+      <line id="Línea_468" data-name="Línea 468" x2="32.934" transform="translate(1090.485 3192.109)" fill="none" stroke="#4e2e8e" stroke-linecap="round" stroke-width="4"/>
+      <line id="Línea_469" data-name="Línea 469" x2="30.997" transform="translate(1166.04 3201.795)" fill="none" stroke="#4e2e8e" stroke-linecap="round" stroke-width="4"/>
+      <line id="Línea_470" data-name="Línea 470" x2="29.06" transform="translate(1138.918 3265.727)" fill="none" stroke="#4e2e8e" stroke-linecap="round" stroke-width="4"/>
+    </g>
+  </g>
+</svg>

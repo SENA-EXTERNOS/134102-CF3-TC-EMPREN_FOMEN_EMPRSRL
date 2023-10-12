@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="455" height="323.249" viewBox="0 0 455 323.249">
+  <g id="Grupo_134907" data-name="Grupo 134907" transform="translate(13973 -32.75)">
+    <g id="Grupo_134755" data-name="Grupo 134755" transform="translate(-14016 33.75)">
+      <g id="Grupo_134751" data-name="Grupo 134751" transform="translate(321.542 -656.689)">
+        <rect id="Rectángulo_42407" data-name="Rectángulo 42407" width="76.046" height="50.594" rx="5" transform="translate(0 656.689)" fill="#fff" stroke="#4752e3" stroke-miterlimit="10" stroke-width="2"/>
+        <text id="Gestión_proceso" data-name="Gestión proceso" transform="translate(5 661.689)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="5.308" y="17">Gestión </tspan></text>
+      </g>
+      <g id="Grupo_134752" data-name="Grupo 134752" transform="translate(145.88 -607.443)">
+        <rect id="Rectángulo_42407-2" data-name="Rectángulo 42407" width="94.597" height="50.594" rx="5" transform="translate(0 656.689)" fill="#fff" stroke="#4752e3" stroke-miterlimit="10" stroke-width="2"/>
+        <text id="Estructura_información" data-name="Estructura
+información" transform="translate(5 661.689)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="5.146" y="17">Estructura</tspan></text>
+      </g>
+      <g id="Rectángulo_44184" data-name="Rectángulo 44184" transform="translate(146 120.249)" fill="#fff" stroke="#6677d6" stroke-width="2">
+        <rect width="295" height="101" stroke="none"/>
+        <rect x="1" y="1" width="293" height="99" fill="none"/>
+      </g>
+      <text id="Red_de_actividades" data-name="Red de actividades" transform="translate(293 145.249)" fill="#12263f" font-size="13" font-family="Roboto-Regular, Roboto"><tspan x="-54.466" y="0">Red de actividades</tspan></text>
+      <text id="Actividad" transform="translate(181 274.249)" fill="#12263f" font-size="13" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-27.501" y="0">Actividad</tspan></text>
+      <text id="Unidad_flujo" data-name="Unidad flujo" transform="translate(43 301.249)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="10.676" y="17">Unidad flujo</tspan></text>
+      <text id="ENTRADA" transform="translate(99 183.249)" fill="#12263f" font-size="15" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="-34.149" y="0">ENTRADA</tspan></text>
+      <text id="SALIDA" transform="translate(471 183.249)" fill="#12263f" font-size="15" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="-26.089" y="0">SALIDA</tspan></text>
+      <text id="Buffer" transform="translate(399 274.249)" fill="#12263f" font-size="13" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-18.329" y="0">Buffer</tspan></text>
+      <text id="RECURSOS" transform="translate(287 273.249)" fill="#12263f" font-size="15" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="-38.456" y="0">RECURSOS</tspan></text>
+      <rect id="Rectángulo_44185" data-name="Rectángulo 44185" width="46" height="19" transform="translate(159 159.249)" fill="#12263f"/>
+      <g id="Rectángulo_44189" data-name="Rectángulo 44189" transform="translate(159 241.249)" fill="none" stroke="#12263f" stroke-width="1">
+        <rect width="46" height="18" stroke="none"/>
+        <rect x="0.5" y="0.5" width="45" height="17" fill="none"/>
+      </g>
+      <rect id="Rectángulo_44186" data-name="Rectángulo 44186" width="45" height="19" transform="translate(259 159.249)" fill="#c6412a"/>
+      <rect id="Rectángulo_44188" data-name="Rectángulo 44188" width="45" height="18" transform="translate(271 189.249)" fill="#ffef0f"/>
+      <rect id="Rectángulo_44187" data-name="Rectángulo 44187" width="46" height="19" transform="translate(358 159.249)" fill="#4e2e8e" opacity="0.75"/>
+      <path id="Polígono_7" data-name="Polígono 7" d="M11,0,22,19H0Z" transform="translate(221 159.249)" fill="#6677d6"/>
+      <path id="Polígono_8" data-name="Polígono 8" d="M11,0,22,19H0Z" transform="translate(320 159.249)" fill="#92d40e"/>
+      <path id="Unión_2" data-name="Unión 2" d="M8.485,26V8.3H0L14,0,28,8.3H20.364V26Z" transform="translate(276 228.249)" fill="#c6412a"/>
+      <g id="Unión_3" data-name="Unión 3" transform="translate(80 189.249)" fill="#ffef0f">
+        <path d="M 27.73450088500977 26.70954132080078 L 27.73450088500977 20.36371040344238 L 27.73450088500977 19.86371040344238 L 27.23450088500977 19.86371040344238 L 0.5 19.86371040344238 L 0.5 8.984689712524414 L 27.23450088500977 8.984689712524414 L 27.73450088500977 8.984689712524414 L 27.73450088500977 8.484689712524414 L 27.73450088500977 1.290406107902527 L 39.32335662841797 13.99962902069092 L 27.73450088500977 26.70954132080078 Z" stroke="none"/>
+        <path d="M 28.23450088500977 25.4190731048584 L 38.64669799804688 13.99964237213135 L 28.23450088500977 2.580833196640015 L 28.23450088500977 9.484689712524414 L 1 9.484689712524414 L 1 19.36371040344238 L 28.23450088500977 19.36371040344238 L 28.23450088500977 25.4190731048584 M 27.23450088500977 28 L 27.23450088500977 20.36371040344238 L 0 20.36371040344238 L 0 8.484689712524414 L 27.23450088500977 8.484689712524414 L 27.23450088500977 -1.77635683940025e-15 L 40 13.99962043762207 L 27.23450088500977 28 Z" stroke="none" fill="#12263f"/>
+      </g>
+      <g id="Unión_4" data-name="Unión 4" transform="translate(455 189.249)" fill="#089016">
+        <path d="M 27.73450088500977 26.70954132080078 L 27.73450088500977 20.36371040344238 L 27.73450088500977 19.86371040344238 L 27.23450088500977 19.86371040344238 L 0.5 19.86371040344238 L 0.5 8.984689712524414 L 27.23450088500977 8.984689712524414 L 27.73450088500977 8.984689712524414 L 27.73450088500977 8.484689712524414 L 27.73450088500977 1.290406107902527 L 39.32335662841797 13.99962902069092 L 27.73450088500977 26.70954132080078 Z" stroke="none"/>
+        <path d="M 28.23450088500977 25.4190731048584 L 38.64669799804688 13.99964237213135 L 28.23450088500977 2.580833196640015 L 28.23450088500977 9.484689712524414 L 1 9.484689712524414 L 1 19.36371040344238 L 28.23450088500977 19.36371040344238 L 28.23450088500977 25.4190731048584 M 27.23450088500977 28 L 27.23450088500977 20.36371040344238 L 0 20.36371040344238 L 0 8.484689712524414 L 27.23450088500977 8.484689712524414 L 27.23450088500977 -1.77635683940025e-15 L 40 13.99962043762207 L 27.23450088500977 28 Z" stroke="none" fill="#12263f"/>
+      </g>
+      <g id="Polígono_9" data-name="Polígono 9" transform="translate(388 241.249)" fill="none">
+        <path d="M11,0,22,18H0Z" stroke="none"/>
+        <path d="M 11 1.917726516723633 L 1.783054351806641 17 L 20.21694564819336 17 L 11 1.917726516723633 M 11 0 L 22 18 L 0 18 L 11 0 Z" stroke="none" fill="#12263f"/>
+      </g>
+      <line id="Línea_471" data-name="Línea 471" x1="14.181" transform="translate(207.015 168.648)" fill="none" stroke="#12263f" stroke-width="2"/>
+      <line id="Línea_472" data-name="Línea 472" x1="14.181" transform="translate(241.588 168.648)" fill="none" stroke="#12263f" stroke-width="2"/>
+      <line id="Línea_473" data-name="Línea 473" x1="14.181" transform="translate(307.361 168.648)" fill="none" stroke="#12263f" stroke-width="2"/>
+      <line id="Línea_474" data-name="Línea 474" x1="14.181" transform="translate(340.247 168.648)" fill="none" stroke="#12263f" stroke-width="2"/>
+      <path id="Trazado_194137" data-name="Trazado 194137" d="M9.42,6.042H0L4.71,0Z" transform="translate(222.829 163.938) rotate(90)" fill="#12263f"/>
+      <path id="Trazado_194138" data-name="Trazado 194138" d="M9.42,6.042H0L4.71,0Z" transform="translate(257.401 163.938) rotate(90)" fill="#12263f"/>
+      <path id="Trazado_194141" data-name="Trazado 194141" d="M9.42,6.042H0L4.71,0Z" transform="translate(264.916 193.451) rotate(90)" fill="#12263f"/>
+      <path id="Trazado_194142" data-name="Trazado 194142" d="M9.42,6.042H0L4.71,0Z" transform="translate(326.683 179.962)" fill="#12263f"/>
+      <path id="Trazado_194139" data-name="Trazado 194139" d="M9.42,6.042H0L4.71,0Z" transform="translate(323.174 163.938) rotate(90)" fill="#12263f"/>
+      <path id="Trazado_194140" data-name="Trazado 194140" d="M9.42,6.042H0L4.71,0Z" transform="translate(356.06 163.938) rotate(90)" fill="#12263f"/>
+      <line id="Línea_475" data-name="Línea 475" y2="20.238" transform="translate(230.626 178.345)" fill="none" stroke="#12263f" stroke-width="2"/>
+      <line id="Línea_478" data-name="Línea 478" x2="16" transform="translate(316 198.249)" fill="none" stroke="#12263f" stroke-width="2"/>
+      <line id="Línea_476" data-name="Línea 476" x2="29.513" transform="translate(229.783 198.583)" fill="none" stroke="#12263f" stroke-width="2"/>
+      <line id="Línea_477" data-name="Línea 477" y1="13.117" transform="translate(331.393 185.044)" fill="none" stroke="#12263f" stroke-width="2"/>
+      <g id="Grupo_134753" data-name="Grupo 134753" transform="translate(99.502 14.335)">
+        <line id="Línea_479" data-name="Línea 479" y1="139.062" transform="translate(0 10.54)" fill="none" stroke="#12263f" stroke-linecap="round" stroke-width="2" stroke-dasharray="5 5"/>
+        <line id="Línea_480" data-name="Línea 480" x2="214.605" transform="translate(0 10.54)" fill="none" stroke="#12263f" stroke-linecap="round" stroke-width="2" stroke-dasharray="5 5"/>
+        <g id="Polígono_13" data-name="Polígono 13" transform="translate(219.498 -0.086) rotate(90)" fill="#12263f">
+          <path d="M 21.01330184936523 14.5 L 0.9866986870765686 14.5 L 11 0.8454982042312622 L 21.01330184936523 14.5 Z" stroke="none"/>
+          <path d="M 11 1.690996170043945 L 1.973398208618164 14 L 20.02660179138184 14 L 11 1.690996170043945 M 11 0 L 22 15 L 0 15 L 11 0 Z" stroke="none" fill="#12263f"/>
+        </g>
+      </g>
+      <g id="Grupo_134754" data-name="Grupo 134754" transform="translate(398.852 14.335)">
+        <line id="Línea_479-2" data-name="Línea 479" y1="139.062" transform="translate(75.47 10.54)" fill="none" stroke="#12263f" stroke-linecap="round" stroke-width="2" stroke-dasharray="5 5"/>
+        <line id="Línea_480-2" data-name="Línea 480" x1="70.832" transform="translate(4.638 10.54)" fill="none" stroke="#12263f" stroke-linecap="round" stroke-width="2" stroke-dasharray="5 5"/>
+        <g id="Polígono_13-2" data-name="Polígono 13" transform="translate(0.147 21.914) rotate(-90)" fill="#12263f">
+          <path d="M 21.01330184936523 14.5 L 0.9866986870765686 14.5 L 11 0.8454982042312622 L 21.01330184936523 14.5 Z" stroke="none"/>
+          <path d="M 11 1.690996170043945 L 1.973398208618164 14 L 20.02660179138184 14 L 11 1.690996170043945 M 11 0 L 22 15 L 0 15 L 11 0 Z" stroke="none" fill="#12263f"/>
+        </g>
+      </g>
+      <line id="Línea_480-3" data-name="Línea 480" y1="58.096" transform="translate(361.891 58.692)" fill="none" stroke="#12263f" stroke-linecap="round" stroke-width="2" stroke-dasharray="5 5"/>
+      <g id="Polígono_13-3" data-name="Polígono 13" transform="translate(350.507 54.055)" fill="#12263f">
+        <path d="M 20.94635581970215 14.67831897735596 L 0.9778798222541809 14.67831897735596 L 10.96211814880371 0.8539890050888062 L 20.94635581970215 14.67831897735596 Z" stroke="none"/>
+        <path d="M 10.96211814880371 1.707968711853027 L 1.955753326416016 14.17831897735596 L 19.96848297119141 14.17831897735596 L 10.96211814880371 1.707968711853027 M 10.96211814880371 -9.5367431640625e-07 L 21.92423820495605 15.17831897735596 L -1.9073486328125e-06 15.17831897735596 L 10.96211814880371 -9.5367431640625e-07 Z" stroke="none" fill="#12263f"/>
+      </g>
+      <path id="Trazado_194143" data-name="Trazado 194143" d="M0,105.4,104.562,0" transform="translate(78 185.091)" fill="none" stroke="#12263f" stroke-width="2" stroke-dasharray="7 5"/>
+      <path id="Polígono_14" data-name="Polígono 14" d="M6.324,0l6.324,10.962H0Z" transform="translate(182.403 176.724) rotate(48)" fill="#12263f"/>
+    </g>
+  </g>
+</svg>
