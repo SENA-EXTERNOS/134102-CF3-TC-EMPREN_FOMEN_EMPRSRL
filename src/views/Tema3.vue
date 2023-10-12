@@ -88,7 +88,7 @@
         ImagenInfografica.color-acento-botones.mb-5
           template(v-slot:imagen)
             figure
-              img(src='@/assets/curso/temas/tema3/img-6-.svg', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/temas/tema3/img-infog.svg', alt='')
 
           .tarjeta.color-secundario.p-3(x="11%" y="47%" numero="1")
             h3 Matriz DOFA

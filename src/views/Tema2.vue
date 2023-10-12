@@ -27,7 +27,7 @@
           .col-8
             img.img-150.img-t(src='@/assets/curso/temas/tema2/img-2.svg' alt='AvatarTop')
         h3.text-center Misión
-        p.text-center.px-2 Es la razón de ser de la organización, donde se fundamenta el propósito de porqué existe y qué hace para lograr su visión.
+        p.text-center.px-2 Es la razón de ser de la organización, donde se fundamenta el propósito de por qué existe y qué hace para lograr su visión.
       .tarjeta.color-acento-botones.p-4.fnd-51.tarjeta-avatar1.t2
         .row.justify-content-center.mb-3
           .col-8

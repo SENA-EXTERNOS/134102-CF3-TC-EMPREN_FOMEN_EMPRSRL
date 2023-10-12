@@ -7,11 +7,11 @@
         span 1
       h1 La administración
 
-    p.mb-5 Para comenzar, debemos tener presente, el origen y definición etimológica de la palabra “administración”, la cual viene del latín <em>administratio;</em> se forma del prefijo “ad”, hacia, y de<em> “ministratio”.</em> Esta última palabra viene a su vez de <em>“minister”,</em> vocablo compuesto de <em>“minus”,</em> comparativo de inferioridad, y del sufijo <em>“ter”, </em>que sirve como término de comparación; entonces,<em> “magister” </em>(magistrado), indica una función de preeminencia o autoridad –el que ordena o dirige a otros en una función–;<em> “minister”</em> expresa precisamente lo contrario: subordinación u obediencia; el que realiza una función bajo el mando de otro; el que presta un servicio a otro. 
+    p.mb-5 Para comenzar, debemos tener presente el origen y definición etimológica de la palabra “administración”, la cual viene del latín <em>administratio;</em> se forma del prefijo “ad”, hacia, y de<em> “ministratio”.</em> Esta última palabra viene a su vez de <em>“minister”,</em> vocablo compuesto de <em>“minus”,</em> comparativo de inferioridad, y del sufijo <em>“ter”, </em>que sirve como término de comparación; entonces,<em> “magister” </em>(magistrado), indica una función de preeminencia o autoridad –el que ordena o dirige a otros en una función–;<em> “minister”</em> expresa precisamente lo contrario: subordinación u obediencia; el que realiza una función bajo el mando de otro; el que presta un servicio a otro. 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-10
         .cajon.color-secundario.p-4.mb-4.fnd-7
-          p En conclusión, se puede decir que la administración se refiere a una función que se desarrolla bajo el mando de otro, de un servicio que se presta. Por consiguiente, servicio y subordinación, son los elementos principales obtenidos. 
+          p.mb-0 En conclusión, se puede decir que la administración se refiere a una función que se desarrolla bajo el mando de otro, de un servicio que se presta. Por consiguiente, servicio y subordinación, son los elementos principales obtenidos. 
 
     p.mb-5 A continuación, se alude a conceptos sobre administración, definidos por algunos autores contemporáneos:
 
@@ -26,7 +26,7 @@
       .tarjeta.tarjeta--azul2.p-4(titulo="Harold Koontz<br> y Heinz Weihrich")
         .row.justify-content-center.align-items-center.mb-5
           .col-lg-6
-            p Puntualizan que la la administración es el proceso de diseñar y mantener un ambiente en el que las personas, trabajando en grupos, alcanzan con eficiencia las metas seleccionadas.
+            p Puntualizan que la administración es el proceso de diseñar y mantener un ambiente en el que las personas, trabajando en grupos, alcanzan con eficiencia las metas seleccionadas.
           .col-lg-6
             figure
               img(src='@/assets/curso/temas/tema1/img-2.png')   
@@ -41,8 +41,7 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-8
         .cajon.color-primario.p-4.mb-4.fnd-1
-
-          p Con base en los anteriores puntos de vista, no hay una definición única de administración, porque se aplica de manera universal, donde cada uno la desarrolla de acuerdo con sus necesidades
+          p.mb-0 Con base en los anteriores puntos de vista, no hay una definición única de administración, porque se aplica de manera universal, donde cada uno la desarrolla de acuerdo con sus necesidades
         
 
     ul.lista-ul--color.mb-3
@@ -51,10 +50,9 @@
         | 
         h3.text-black Antecedentes de la administración
 
-    p.mb-5 De acuerdo con lo que afirman Münch y García (1990), no existen datos concisos que permitan hacer una precisión de cuándo surge la administración; se cree que se originó por la necesidad de alcanzar los objetivos con los recursos que se contaban y con la mayor satisfacción posible.
+    p De acuerdo con lo que afirman Münch y García (1990), no existen datos concisos que permitan hacer una precisión de cuándo surge la administración; se cree que se originó por la necesidad de alcanzar los objetivos con los recursos que se contaban y con la mayor satisfacción posible.
 
     p.mb-5 A continuación, se detallan algunos acontecimientos de cómo ha venido evolucionando la administración a través del tiempo.
-     
 
     .tarjeta.tarjeta--gris.p-4.mb-5.fnd-2
       LineaTiempoC.color-acento-contenido(text-small)
@@ -63,13 +61,13 @@
             figure
               img.img-81(src='@/assets/curso/temas/tema1/img-4.png')              
           .col-md-6
-            p En esta época, los miembros de las tribus trabajaban en actividades como la caza, la pesca y la recolección. Los jefes de familia eran los que ejercían la autoridad y tomaban las decisiones más importantes. Existía la división del trabajo y de acuerdo con las capacidades de los sexos y las edades. Cuando los hombres trabajaron en grupo, se dio el inicio de la administración.
+            p En esta época, los miembros de las tribus trabajaban en actividades como la caza, la pesca y la recolección. Los jefes de familia eran los que ejercían la autoridad y tomaban las decisiones más importantes. Existía la división del trabajo de acuerdo con las capacidades de los sexos y las edades. Cuando los hombres trabajaron en grupo, se dio el inicio de la administración.
         .row.px-5(titulo="Periodo agrícola")
           .col-md-6.mb-4.mb-md-0
             figure
               img.img-81(src='@/assets/curso/temas/tema1/img-5.png')              
           .col-md-6
-            p Se caracterizó por la aparición de la agricultura y la vida sedentaria; continuó la división de trabajo por edad y sexo. Se acentuó la organización social de tipo patriarcal. La caza, la pesca y la recolección, pasaron a ocupar un lugar de segunda importancia en la economía agrícola.
+            p Se caracterizó por la aparición de la agricultura y la vida sedentaria; continuó la división de trabajo por edad y sexo. Se acentuó la organización social de tipo patriarcal. La caza, la pesca y la recolección pasaron a ocupar un lugar de segunda importancia en la economía agrícola.
         .row.px-5(titulo="Antigüedad grecolatina")
           .col-md-6.mb-4.mb-md-0
             figure
@@ -81,7 +79,7 @@
             figure
               img.img-81(src='@/assets/curso/temas/tema1/img-7.png')              
           .col-md-6
-            p Durante el feudalismo, las relaciones sociales se caracterizaron por un régimen de servidumbre. La administración interior del feudo, estaba sujeta a la administración del señor feudal, quien ejercía control sobre la producción del siervo. Al finalizar esta época, una gran cantidad de siervos se convirtieron en trabajadores independientes, organizándose así los talleres artesanales y el sistema de oficios, con nuevas estructuras de autoridad en la administración. Los artesanos-patrones, trabajaban al lado de los oficiales y aprendices, en quienes delegaban su autoridad. El desarrollo del comercio en gran escala, originó que la economía familiar se convirtiera en economía de ciudad. Aparecieron las corporaciones o gremios, que regulan horarios, salarios y demás condiciones de trabajo; en dichos organismos, se encuentra el origen de los actuales sindicatos.
+            p Durante el feudalismo, las relaciones sociales se caracterizaron por un régimen de servidumbre. La administración interior del feudo, estaba sujeta a la administración del señor feudal, quien ejercía control sobre la producción del siervo. Al finalizar esta época, una gran cantidad de siervos se convirtieron en trabajadores independientes, organizándose así los talleres artesanales y el sistema de oficios, con nuevas estructuras de autoridad en la administración. Los artesanos-patrones, trabajaban al lado de los oficiales y aprendices, en quienes delegaban su autoridad. El desarrollo del comercio en gran escala, originó que la economía familiar se convirtiera en economía de ciudad. Aparecieron las corporaciones o gremios, que regulan horarios, salarios y demás condiciones de trabajo; en dichos organismos se encuentra el origen de los actuales sindicatos.
         .row.px-5(titulo="Revolución industrial")
           .col-md-6.mb-4.mb-md-0
             figure
@@ -270,6 +268,7 @@
                 p.mb-0 
                   b 2. Fase dinámica: 
                   | hace referencia al movimiento, es la que define cómo manejar la organización y la conforman el control, la dirección y la integración.  
+    
     p.mb-5 El siguiente esquema le muestra las fases del proceso administrativo, la cuales son de vital importancia para el éxito de los procesos y la efectividad de las acciones desarrolladas: 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-8
@@ -277,7 +276,7 @@
           p.mb-0 #[b Figura 1] #[br] #[i Fases del proceso administrativo] 
       .col-lg-8.fnd-5.p-5
           figure
-            img(src='@/assets/curso/temas/tema1/img-19.svg')  
+            img(src='@/assets/curso/temas/tema1/fig1.svg')  
 
 
 
@@ -328,7 +327,7 @@
               .tarjeta-slide__contenedor
                 .tarjeta-slide__contenido.p-4.p-xl-5.text-center
                   h2 Franklin (2004)
-                  p Para él, organigrama es la representación gráfica de la estructura orgánica de una institución o de una de sus áreas, en la que se muestran las relaciones que guardan entre sí, los órganos que la componen. 
+                  p Para él, organigrama es la representación gráfica de la estructura orgánica de una institución o de una de sus áreas, en la que se muestran las relaciones que guardan entre sí los órganos que la componen. 
 
                 .tarjeta-slide__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tema1/img-23.png')})`}")
 
@@ -488,7 +487,7 @@
                     i.fas.fa-check
                     p.mb-4 
                       b Horizontales: 
-                      | definen las unidades administrativas de izquierda a derecha y colocan al titular al lado izquierdo, los niveles jerárquicos se ordenan en forma de columna, en tanto que la relaciones entre unidades, se ordenan por líneas dispuestas de forma horizontal.
+                      | definen las unidades administrativas de izquierda a derecha y colocan al titular al lado izquierdo, los niveles jerárquicos se ordenan en forma de columna, en tanto que las relaciones entre unidades, se ordenan por líneas dispuestas de forma horizontal.
                   li.mb-4 
                     i.fas.fa-check
                     p.mb-4 
@@ -614,7 +613,7 @@
     #t_1_3.titulo-segundo.color-acento-contenido
       h2 1.3 Procesos: componentes y metodología
 
-    p.mb-3 Luego de saber cuáles son las áreas funcionales dentro de una organización, se define entonces el proceso, como una secuencia lógica y organizada de actividades donde se marca el principio y el fin, con el objetivo común de transformar las entradas en salidas, para brindar a los clientes un valor agregado.
+    p.mb-3 Luego de saber cuáles son las áreas funcionales dentro de una organización, se define entonces el proceso como una secuencia lógica y organizada de actividades donde se marca el principio y el fin, con el objetivo común de transformar las entradas en salidas, para brindar a los clientes un valor agregado.
     p.mb-5 Los elementos básicos que conforman la estructura del proceso son:
     .row.justify-content-center.align-items-between.mb-5
       .col-lg-4
@@ -648,7 +647,8 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-10
         .cajon.color-acento-contenido.p-4.mb-4.fnd-6.mb-5.blz
-          p Es esencial estandarizar la realización de los diagramas, con el objetivo que todos puedan captar la misma información y que igualen las interpretaciones. Los diagramas que son más útiles contienen palabras, frases y pueden ser comprensibles por cualquier persona.
+          p.mb-0 Es esencial estandarizar la realización de los diagramas, con el objetivo de que todos puedan captar la misma información y que igualen las interpretaciones. Los diagramas que son más útiles contienen palabras, frases y pueden ser comprensibles por cualquier persona.
+    
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-10
           .row.justify-content-center.align-items-between.mb-5.fnd-9.p-5

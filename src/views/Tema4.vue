@@ -100,7 +100,7 @@
       .row.p-5
         .col-md-6.mb-4.mb-md-0
           h3 Entrevista directa
-          p Este método es mucho más flexible, porque el analista le realiza una entrevista al ocupante del puesto y obtiene información sobre todos los aspectos, como las tareas, porque y cuando las realiza, así como también se pueden conocer las habilidades que se requieren para ocupar el puesto.
+          p Este método es mucho más flexible, porque el analista le realiza una entrevista al ocupante del puesto y obtiene información sobre todos los aspectos, como las tareas, por qué y cuándo las realiza, así como también se pueden conocer las habilidades que se requieren para ocupar el puesto.
         .col-md-6
           figure
             img(src='@/assets/curso/temas/tema4/img-8.png')
